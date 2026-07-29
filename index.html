@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Repo Stats</title>
+<link rel="stylesheet" href="style.css" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<div id="gate">
+  <div class="card">
+    <div class="lock">&#128274;</div>
+    <h1>Repo Stats Dashboard</h1>
+    <p>Enter the passphrase to continue</p>
+    <form id="gate-form">
+      <input id="gate-input" type="password" autocomplete="off" placeholder="passphrase" autofocus />
+      <button type="submit">Unlock</button>
+      <div class="err" id="gate-err"></div>
+    </form>
+  </div>
+</div>
+
+<div id="app">
+  <header class="top">
+    <div>
+      <h1>GitHub Repo Stats &mdash; <span id="owner-name"></span></h1>
+      <div class="meta">
+        Last collected: <strong id="generated-at"></strong> &middot;
+        <strong id="repo-count"></strong> repos tracked &middot;
+        up to <strong id="window-days"></strong> days of compounding history
+      </div>
+    </div>
+  </header>
+
+  <div class="cards" id="summary-cards"></div>
+
+  <div class="section-title">Leaderboards</div>
+  <div class="leaderboards">
+    <div class="board">
+      <h3>Most viewed repos</h3>
+      <canvas id="chart-top-views"></canvas>
+    </div>
+    <div class="board">
+      <h3>Most cloned repos</h3>
+      <canvas id="chart-top-clones"></canvas>
+    </div>
+  </div>
+
+  <div class="section-title">Per-repo detail</div>
+  <div class="controls">
+    <input type="text" id="search" placeholder="Filter by name, description, or language..." />
+    <select id="sort-by">
+      <option value="views">Sort: Most views</option>
+      <option value="clones">Sort: Most clones</option>
+      <option value="stars">Sort: Most stars</option>
+      <option value="pushed">Sort: Recently pushed</option>
+      <option value="name">Sort: Name (A-Z)</option>
+    </select>
+    <span class="count"><span id="visible-count">0</span> repos shown</span>
+  </div>
+
+  <div id="accordion"></div>
+
+  <div class="footer-meta">
+    Methodology: GitHub's Traffic API only exposes a rolling 14-day window for views and clones.
+    A scheduled collector merges each day's numbers into a permanent local store keyed by date,
+    so history compounds over time instead of resetting every 14 days &mdash; the longer this runs,
+    the further back the charts above will reach. Referrers and popular paths reflect GitHub's
+    latest 14-day snapshot only (not accumulated). Stars/forks/watchers are point-in-time snapshots
+    taken on each collection run.
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

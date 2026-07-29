@@ -1,0 +1,6726 @@
+{
+  "generated_at": "2026-07-29T17:40:45.411323+00:00",
+  "owner": "StewAlexander-com",
+  "repos": {
+    "AI-Human-Mutualism": {
+      "createdAt": "2026-07-18T15:59:34Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 138,
+          "uniques": 59
+        },
+        "2026-07-19": {
+          "count": 3,
+          "uniques": 3
+        },
+        "2026-07-20": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 5,
+          "uniques": 5
+        },
+        "2026-07-23": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-24": {
+          "count": 4,
+          "uniques": 3
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 33,
+          "uniques": 3
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "master",
+      "description": "AI\u2013Human Mutualism: guardrails so two intelligences leave a conversation clearer than they entered. Partial filters, finite attention, two dials \u2014 not politeness, partnership.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": null,
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 28,
+          "path": "/StewAlexander-com/AI-Human-Mutualism",
+          "title": "Overview",
+          "uniques": 3
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/AI-Human-Mutualism/blob/master/LICENSE",
+          "title": "/blob/master/LICENSE",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/AI-Human-Mutualism/releases/tag/v1.0.0",
+          "title": "/releases/tag/v1.0.0",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/AI-Human-Mutualism/releases/tag/v1.1.0",
+          "title": "/releases/tag/v1.1.0",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-07-18T18:56:10Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/AI-Human-Mutualism"
+    },
+    "Awesome-Mnemonics": {
+      "createdAt": "2022-12-24T14:44:04Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 3,
+          "uniques": 2
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "default_branch": "main",
+      "description": "\ud83e\udde0 A field guide to mnemonics for engineers: outages, RCAs, infra design, burnout, and conflict. Structured entries with when-to-use, pitfalls, combinations, and examples. Pipelines and playbooks for on-call situations.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 17,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Rich Text Format",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 5,
+          "path": "/StewAlexander-com/Awesome-Mnemonics",
+          "title": "Overview",
+          "uniques": 5
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Awesome-Mnemonics/actions",
+          "title": "/actions",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Awesome-Mnemonics/blob/main/CHANGELOG.md",
+          "title": "/blob/main/CHANGELOG.md",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Awesome-Mnemonics/branches",
+          "title": "/branches",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Awesome-Mnemonics/issues",
+          "title": "/issues",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-02-01T02:22:57Z",
+      "referrers": [
+        {
+          "count": 1,
+          "referrer": "linkedin.com",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "referrer": "saifex.kepco-enc.com",
+          "uniques": 1
+        }
+      ],
+      "url": "https://github.com/StewAlexander-com/Awesome-Mnemonics"
+    },
+    "Chocolatey-ElasticSearch": {
+      "createdAt": "2020-02-28T12:36:30Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "master",
+      "description": "How to get Chocolatey package manager logs parsed by the Elastic Search ELK stack",
+      "growth": {
+        "2026-07-29": {
+          "forks": 1,
+          "open_issues": 0,
+          "stars": 3,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": null,
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Chocolatey-ElasticSearch/pulse",
+          "title": "/pulse",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2020-02-28T14:34:11Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/Chocolatey-ElasticSearch"
+    },
+    "ChromaTerm": {
+      "createdAt": "2023-11-20T00:31:56Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 4,
+          "uniques": 2
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Color your Terminal with RegEx!",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2026-07-06T17:50:17Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/ChromaTerm"
+    },
+    "Falling-Bricks-Mobile-Game": {
+      "createdAt": "2025-05-03T12:13:35Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Falling-Bricks-Game",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Falling-Bricks-Mobile-Game",
+          "title": "Overview",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Falling-Bricks-Mobile-Game/labels",
+          "title": "/labels",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-05-28T05:40:21Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/Falling-Bricks-Mobile-Game"
+    },
+    "File_Cleanup": {
+      "createdAt": "2025-11-14T17:55:26Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "master",
+      "description": "Easy File Cleanup tool that quickly organize files by placing them into folders by filetype, OS independent",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2025-12-24T17:08:07Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/File_Cleanup"
+    },
+    "Find-Incomplete-MAC-Addrresses.py": {
+      "createdAt": "2021-12-01T17:17:05Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Finds the list of incomplete MAC addresses from a Cisco sh IP arp, if any, and counts the total",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2025-12-24T16:30:15Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/Find-Incomplete-MAC-Addrresses.py"
+    },
+    "Fractal-Mandala-3D": {
+      "createdAt": "2026-03-19T09:22:56Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 49,
+          "uniques": 16
+        },
+        "2026-07-16": {
+          "count": 2,
+          "uniques": 1
+        },
+        "2026-07-17": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 2,
+          "uniques": 1
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 3,
+          "uniques": 3
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Seven layers of sacred geometry. One interactive journey inward. A 3D quantum orbital mandala built with Three.js.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "JavaScript",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Fractal-Mandala-3D",
+          "title": "Overview",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Fractal-Mandala-3D/releases",
+          "title": "/releases",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-07-15T14:25:25Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/Fractal-Mandala-3D"
+    },
+    "Linux-Tools": {
+      "createdAt": "2021-11-12T15:57:07Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 6,
+          "uniques": 6
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-21": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 3,
+          "uniques": 3
+        },
+        "2026-07-28": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "default_branch": "main",
+      "description": "List of Linux Tools I put on almost every linux / Debian host, with a lazy installer for those who just want all the tools at once",
+      "growth": {
+        "2026-07-29": {
+          "forks": 6,
+          "open_issues": 0,
+          "stars": 32,
+          "watchers": 5
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 20,
+          "path": "/StewAlexander-com/Linux-Tools",
+          "title": "Overview",
+          "uniques": 18
+        }
+      ],
+      "pushedAt": "2026-07-14T17:59:28Z",
+      "referrers": [
+        {
+          "count": 13,
+          "referrer": "Google",
+          "uniques": 12
+        },
+        {
+          "count": 1,
+          "referrer": "github.com",
+          "uniques": 1
+        }
+      ],
+      "url": "https://github.com/StewAlexander-com/Linux-Tools"
+    },
+    "MAC-Converter": {
+      "createdAt": "2021-11-09T14:47:31Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Converts from PC formatted MAC addresses (hardware addresses) to Cisco format or vice-versa",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 2,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2023-11-20T01:09:00Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/MAC-Converter"
+    },
+    "MAC-Table-Tool": {
+      "createdAt": "2022-04-04T21:26:48Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Finds all the vendors in a MAC table, and then displays the MAC address, port #, and Vendor name",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2022-05-19T15:44:17Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/MAC-Table-Tool"
+    },
+    "MAC2CSV": {
+      "createdAt": "2022-03-11T22:13:05Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Converts the output of a Cisco \"sh mac address\" or \"sh ip arp\" to a CSV file ready for Google Sheets / Excel",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 2,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2023-11-12T16:56:04Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/MAC2CSV"
+    },
+    "MebaneWeather": {
+      "createdAt": "2025-06-11T16:27:28Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-16": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-17": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-18": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Severe weather dashboard for Mebane North Carolina's MebaneWeather.com",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "HTML",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 4,
+          "path": "/StewAlexander-com/MebaneWeather",
+          "title": "Overview",
+          "uniques": 4
+        }
+      ],
+      "pushedAt": "2026-07-13T20:23:42Z",
+      "referrers": [
+        {
+          "count": 1,
+          "referrer": "github.com",
+          "uniques": 1
+        }
+      ],
+      "url": "https://github.com/StewAlexander-com/MebaneWeather"
+    },
+    "NetDisco-Ubuntu-Install": {
+      "createdAt": "2019-07-17T13:22:47Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-20": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-17": {
+          "count": 5,
+          "uniques": 2
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 3,
+          "uniques": 2
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 4,
+          "uniques": 4
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 3,
+          "uniques": 2
+        },
+        "2026-07-28": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "default_branch": "master",
+      "description": "Clearer instructions on how to load NetDisco on an Ubuntu server",
+      "growth": {
+        "2026-07-29": {
+          "forks": 3,
+          "open_issues": 0,
+          "stars": 5,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": null,
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 18,
+          "path": "/StewAlexander-com/NetDisco-Ubuntu-Install",
+          "title": "Overview",
+          "uniques": 11
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/NetDisco-Ubuntu-Install/blob/master/NetDisco-New - Support.pdf",
+          "title": "/blob/master/NetDisco-New - Support.pdf",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/NetDisco-Ubuntu-Install/forks",
+          "title": "/forks",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/NetDisco-Ubuntu-Install/issues",
+          "title": "/issues",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2021-09-09T18:24:28Z",
+      "referrers": [
+        {
+          "count": 11,
+          "referrer": "Google",
+          "uniques": 7
+        },
+        {
+          "count": 7,
+          "referrer": "github.com",
+          "uniques": 5
+        }
+      ],
+      "url": "https://github.com/StewAlexander-com/NetDisco-Ubuntu-Install"
+    },
+    "NetSearch": {
+      "createdAt": "2022-04-01T00:17:22Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Searches for patterns in an ARP / MAC table",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2022-05-24T20:26:20Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/NetSearch"
+    },
+    "Python-Power-User": {
+      "createdAt": "2026-03-13T07:21:43Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "A comprehensive Python language reference & interactive TUI learning tool \u2014 47 sections, Monokai-themed curses interface, fault-tolerant CLI",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 2,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2026-04-17T12:32:21Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/Python-Power-User"
+    },
+    "ShadowVendor": {
+      "createdAt": "2021-12-02T22:30:43Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-16": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-17": {
+          "count": 2,
+          "uniques": 1
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 3,
+          "uniques": 1
+        },
+        "2026-07-20": {
+          "count": 3,
+          "uniques": 2
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 2,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 3,
+          "uniques": 2
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 8,
+          "uniques": 2
+        },
+        "2026-07-20": {
+          "count": 2,
+          "uniques": 1
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 11,
+          "uniques": 3
+        },
+        "2026-07-25": {
+          "count": 2,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "default_branch": "main",
+      "description": "Network device vendor analysis tool - Transform MAC address tables into interactive dashboards, detect new vendors, and export SIEM events for security monitoring. Supports Cisco, Juniper, HP/Aruba, Extreme, Brocade and more.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 2,
+          "open_issues": 0,
+          "stars": 7,
+          "watchers": 3
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 17,
+          "path": "/StewAlexander-com/ShadowVendor",
+          "title": "Overview",
+          "uniques": 13
+        },
+        {
+          "count": 3,
+          "path": "/StewAlexander-com/ShadowVendor/blob/main/TUTORIAL.md",
+          "title": "/blob/main/TUTORIAL.md",
+          "uniques": 3
+        },
+        {
+          "count": 2,
+          "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/images/security-dashboard.png",
+          "title": "/blob/main/docs/images/security-dashboard.png",
+          "uniques": 1
+        },
+        {
+          "count": 2,
+          "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/images/vendor-dashboard.png",
+          "title": "/blob/main/docs/images/vendor-dashboard.png",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/ShadowVendor/blob/main/ShadowVendor.py",
+          "title": "/blob/main/ShadowVendor.py",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/capture_dashboard_screenshots.py",
+          "title": "/blob/main/docs/capture_dashboard_screenshots.py",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/generate_images.py",
+          "title": "/blob/main/docs/generate_images.py",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/images/overview.png",
+          "title": "/blob/main/docs/images/overview.png",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/ShadowVendor/commit/4f399e3c8c36871cf1dbd3118d73631599f42504",
+          "title": "/commit/4f399e3c8c36871cf1dbd3118d73631599f42504",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/ShadowVendor/issues",
+          "title": "/issues",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-07-10T13:55:41Z",
+      "referrers": [
+        {
+          "count": 27,
+          "referrer": "github.com",
+          "uniques": 12
+        },
+        {
+          "count": 1,
+          "referrer": "Google",
+          "uniques": 1
+        }
+      ],
+      "url": "https://github.com/StewAlexander-com/ShadowVendor"
+    },
+    "StewAlexander-com": {
+      "createdAt": "2022-10-06T11:34:57Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Config files for my GitHub profile.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": null,
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/StewAlexander-com/labels/bug",
+          "title": "/labels/bug",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-04-08T16:38:07Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/StewAlexander-com"
+    },
+    "VIM-Awesome-Cheatsheet": {
+      "createdAt": "2022-10-06T08:36:48Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 3,
+          "uniques": 2
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "default_branch": "main",
+      "description": "Cheatsheet for Vim",
+      "growth": {
+        "2026-07-29": {
+          "forks": 5,
+          "open_issues": 2,
+          "stars": 193,
+          "watchers": 3
+        }
+      },
+      "isPrivate": false,
+      "language": null,
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 2,
+      "popular_paths": [
+        {
+          "count": 4,
+          "path": "/StewAlexander-com/VIM-Awesome-Cheatsheet",
+          "title": "Overview",
+          "uniques": 3
+        }
+      ],
+      "pushedAt": "2025-09-07T10:40:46Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet"
+    },
+    "VSCODE-mobile-Cheat-Sheet": {
+      "createdAt": "2026-04-25T12:58:13Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Mobile-first, offline-ready Visual Studio Code cheat sheet \u2014 every shortcut, command, and quietly-brilliant tip for Mac and Windows.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "JavaScript",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2026-04-25T16:16:30Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/VSCODE-mobile-Cheat-Sheet"
+    },
+    "Weebly-Updates": {
+      "createdAt": "2026-07-13T17:56:47Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Hardened Weebly embed widgets for MebaneWeather.com (forecast dashboard + live radar)",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "HTML",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Weebly-Updates",
+          "title": "Overview",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-07-13T17:56:50Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/Weebly-Updates"
+    },
+    "carettab": {
+      "createdAt": "2020-01-16T13:59:36Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 5,
+          "uniques": 5
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "master",
+      "description": "CaretTab - New Tab Page Replacement",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": null,
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2020-01-07T17:04:39Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/carettab"
+    },
+    "cashier-change": {
+      "createdAt": "2025-01-16T21:49:31Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Cashier Change Python Script - finds least amount of bills and coins as change",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2025-09-07T09:50:37Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/cashier-change"
+    },
+    "checkbook_balancer.py": {
+      "createdAt": "2020-03-06T17:14:23Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "master",
+      "description": "Python3 Checkbook balancer",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2020-07-11T13:16:51Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/checkbook_balancer.py"
+    },
+    "chocolatey.org": {
+      "createdAt": "2020-02-28T14:48:52Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "master",
+      "description": "",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": null,
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2020-02-28T15:00:47Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/chocolatey.org"
+    },
+    "continuous-ai": {
+      "createdAt": "2026-06-13T18:20:29Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 101,
+          "uniques": 32
+        },
+        "2026-07-16": {
+          "count": 69,
+          "uniques": 19
+        },
+        "2026-07-17": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-18": {
+          "count": 12,
+          "uniques": 4
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 56,
+          "uniques": 16
+        },
+        "2026-07-28": {
+          "count": 82,
+          "uniques": 15
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 7,
+          "uniques": 2
+        },
+        "2026-07-16": {
+          "count": 3,
+          "uniques": 1
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 7,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "default_branch": "main",
+      "description": "Aida \u2014 a fully offline, cross-platform memory + integrity runtime for local LLMs on Ollama. Won't fabricate (20%\u21920% confabulation); memory you own, audit, and correct.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 1,
+          "open_issues": 0,
+          "stars": 2,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 8,
+          "path": "/StewAlexander-com/continuous-ai",
+          "title": "Overview",
+          "uniques": 2
+        },
+        {
+          "count": 2,
+          "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.18",
+          "title": "/releases/tag/v2.14.18",
+          "uniques": 1
+        },
+        {
+          "count": 2,
+          "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.19",
+          "title": "/releases/tag/v2.14.19",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/continuous-ai/commit/89248a1",
+          "title": "/commit/89248a1",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.10",
+          "title": "/releases/tag/v2.14.10",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.11",
+          "title": "/releases/tag/v2.14.11",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.12",
+          "title": "/releases/tag/v2.14.12",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.13",
+          "title": "/releases/tag/v2.14.13",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.15",
+          "title": "/releases/tag/v2.14.15",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.17",
+          "title": "/releases/tag/v2.14.17",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-07-28T16:32:50Z",
+      "referrers": [
+        {
+          "count": 3,
+          "referrer": "honest-aida.ai",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "referrer": "github.com",
+          "uniques": 1
+        }
+      ],
+      "url": "https://github.com/StewAlexander-com/continuous-ai"
+    },
+    "count-patterns-in-file.py": {
+      "createdAt": "2021-10-30T19:40:25Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Project to create a way to search files for specific strings",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2021-11-05T16:16:27Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/count-patterns-in-file.py"
+    },
+    "energy-density-ideas": {
+      "createdAt": "2026-05-18T11:28:32Z",
+      "daily_clones": {
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-29": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-29": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": true,
+      "language": null,
+      "last_collected": "2026-07-29T17:34:04.152595+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2026-05-18T11:28:34Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/energy-density-ideas"
+    },
+    "global-tensor-network": {
+      "createdAt": "2026-04-10T10:58:18Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 3,
+          "uniques": 3
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Interactive tensor network model of 15 interconnected global systems \u2014 energy, climate, AI, water, geopolitics, critical minerals with verifiable push/pull couplings",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "HTML",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/global-tensor-network/blob/main/docs/addenda/Power_Energy_Density_Ideas_Visual_Companion.pdf",
+          "title": "/blob/main/docs/addenda/Power_Energy_Density_Ideas_Visual_Companion.pdf",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-05-18T13:13:52Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/global-tensor-network"
+    },
+    "internet-up-clean": {
+      "createdAt": "2021-11-04T04:51:19Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Simple program for a user to provide networking details to the network admin(s)",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2021-11-05T16:05:08Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/internet-up-clean"
+    },
+    "linux-gunk": {
+      "createdAt": "2022-04-19T18:53:02Z",
+      "daily_clones": {
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-29": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-29": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 1
+        }
+      },
+      "isPrivate": true,
+      "language": null,
+      "last_collected": "2026-07-29T17:34:04.152595+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2022-04-19T18:53:03Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/linux-gunk"
+    },
+    "linuxtech.me": {
+      "createdAt": "2020-01-02T17:29:46Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "master",
+      "description": "Linuxtech.me -  One Linux page to rule them all!",
+      "growth": {
+        "2026-07-29": {
+          "forks": 1,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "HTML",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2020-07-22T15:19:16Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/linuxtech.me"
+    },
+    "live-tech-news": {
+      "createdAt": "2026-04-19T19:47:53Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 305,
+          "uniques": 94
+        },
+        "2026-07-16": {
+          "count": 230,
+          "uniques": 70
+        },
+        "2026-07-17": {
+          "count": 212,
+          "uniques": 61
+        },
+        "2026-07-18": {
+          "count": 282,
+          "uniques": 78
+        },
+        "2026-07-19": {
+          "count": 297,
+          "uniques": 85
+        },
+        "2026-07-20": {
+          "count": 172,
+          "uniques": 49
+        },
+        "2026-07-21": {
+          "count": 182,
+          "uniques": 55
+        },
+        "2026-07-22": {
+          "count": 202,
+          "uniques": 70
+        },
+        "2026-07-23": {
+          "count": 171,
+          "uniques": 65
+        },
+        "2026-07-24": {
+          "count": 167,
+          "uniques": 63
+        },
+        "2026-07-25": {
+          "count": 169,
+          "uniques": 57
+        },
+        "2026-07-26": {
+          "count": 206,
+          "uniques": 65
+        },
+        "2026-07-27": {
+          "count": 135,
+          "uniques": 42
+        },
+        "2026-07-28": {
+          "count": 184,
+          "uniques": 72
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 5,
+          "uniques": 2
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Rotating live tech news board (Gadgets, Innovation, AI, Science). PWA, fuzzy search, 90-day archive. Auto-updated via GitHub Actions.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 1,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "JavaScript",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 1,
+      "popular_paths": [
+        {
+          "count": 3,
+          "path": "/StewAlexander-com/live-tech-news",
+          "title": "Overview",
+          "uniques": 2
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/live-tech-news/blob/main/scripts/update_news.py",
+          "title": "/blob/main/scripts/update_news.py",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/live-tech-news/tree/main/scripts",
+          "title": "/tree/main/scripts",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-07-29T17:39:36Z",
+      "referrers": [
+        {
+          "count": 5,
+          "referrer": "github.com",
+          "uniques": 2
+        }
+      ],
+      "url": "https://github.com/StewAlexander-com/live-tech-news"
+    },
+    "maclookup.py": {
+      "createdAt": "2025-04-15T19:36:26Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 2,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Look up a MAC address's manufacturer  in any format without an internet connection",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 1,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "JavaScript",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 1,
+      "popular_paths": [
+        {
+          "count": 2,
+          "path": "/StewAlexander-com/maclookup.py",
+          "title": "Overview",
+          "uniques": 2
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/maclookup.py/blob/main/README.md",
+          "title": "/blob/main/README.md",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-07-27T10:49:46Z",
+      "referrers": [
+        {
+          "count": 3,
+          "referrer": "github.com",
+          "uniques": 2
+        }
+      ],
+      "url": "https://github.com/StewAlexander-com/maclookup.py"
+    },
+    "nemomac": {
+      "createdAt": "2026-05-30T14:27:40Z",
+      "daily_clones": {
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-29": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-29": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Forensic macOS system monitor \u2014 tamper-evident, AI-interpreted, LAN-accessible PWA",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": true,
+      "language": "TypeScript",
+      "last_collected": "2026-07-29T17:34:04.152595+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2026-06-30T18:38:06Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/nemomac"
+    },
+    "network-attack-visualizer": {
+      "createdAt": "2026-04-03T13:44:56Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Interactive Layer 2/3 network attack visualization \u2014 D3.js, zero backend, GitHub Pages",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "HTML",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/network-attack-visualizer",
+          "title": "Overview",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-04-17T18:53:46Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/network-attack-visualizer"
+    },
+    "pocket-card": {
+      "createdAt": "2026-04-22T12:38:50Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Pocket Card \u2014 a single-page installable reminder card",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "HTML",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2026-04-24T13:54:05Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/pocket-card"
+    },
+    "python-cheatsheet": {
+      "createdAt": "2020-03-18T18:24:14Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "master",
+      "description": "Comprehensive Python Cheatsheet",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 3,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": null,
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/python-cheatsheet/activity",
+          "title": "/activity",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2020-03-15T20:04:41Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/python-cheatsheet"
+    },
+    "python-tutor": {
+      "createdAt": "2026-05-16T11:22:46Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Offline-first Python tutor with a local LLM, codelab UI, safe-ish runner, and source-backed feedback.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 1,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2026-05-22T13:15:00Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/python-tutor"
+    },
+    "rain-view": {
+      "createdAt": "2026-04-05T03:44:36Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Find stillness in the rain \u2014 A contemplative ambient rain experience with 4 cozy scenes, procedural rain effects, and generative piano",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "JavaScript",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/rain-view",
+          "title": "Overview",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2026-04-19T09:17:44Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/rain-view"
+    },
+    "saltstack-mac2csv": {
+      "createdAt": "2022-04-18T19:02:00Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-24": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Turns the yaml output of the saltstack command ```salt -G os:windows network.interfaces``` and turns into a csv file",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/saltstack-mac2csv",
+          "title": "Overview",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2022-04-19T19:55:31Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/saltstack-mac2csv"
+    },
+    "show-ip-arp-mac-lookup": {
+      "createdAt": "2021-12-01T20:49:37Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "Searches for MAC addresses in a text file of a Cisco \"show IP arp\" in any address format",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/show-ip-arp-mac-lookup/actions",
+          "title": "/actions",
+          "uniques": 1
+        }
+      ],
+      "pushedAt": "2021-12-01T21:01:47Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/show-ip-arp-mac-lookup"
+    },
+    "the-art-of-command-line": {
+      "createdAt": "2020-04-03T20:07:12Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "master",
+      "description": "Master the command line, in one page",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": null,
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2020-03-25T16:24:51Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/the-art-of-command-line"
+    },
+    "tropical-todo-list": {
+      "createdAt": "2026-06-28T14:04:54Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-25": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "\ud83c\udf34 Tropical ToDos \u2014 a calm, local-first to-do list with a cinematic beach backdrop and gentle ocean waves. Private by design, offline-first, installable PWA.",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "JavaScript",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2026-06-29T14:27:22Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/tropical-todo-list"
+    },
+    "vsix-cve-scanner": {
+      "createdAt": "2026-05-21T18:47:18Z",
+      "daily_clones": {
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-29": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-29": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "VS Code extension CVE scanner via OSV.dev \u2014 multi-ecosystem, self-auditing",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
+        }
+      },
+      "isPrivate": true,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:34:04.152595+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2026-05-21T19:38:53Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/vsix-cve-scanner"
+    },
+    "yaml_parser": {
+      "createdAt": "2021-10-29T21:45:04Z",
+      "daily_clones": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-07-26": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-27": {
+          "count": 1,
+          "uniques": 1
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "daily_views": {
+        "2026-07-15": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-16": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-17": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-18": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-19": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-20": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-23": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-24": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-25": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-26": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-27": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-07-28": {
+          "count": 0,
+          "uniques": 0
+        }
+      },
+      "default_branch": "main",
+      "description": "",
+      "growth": {
+        "2026-07-29": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
+        }
+      },
+      "isPrivate": false,
+      "language": "Python",
+      "last_collected": "2026-07-29T17:40:45.411323+00:00",
+      "open_issues": 0,
+      "popular_paths": [],
+      "pushedAt": "2021-11-05T15:53:01Z",
+      "referrers": [],
+      "url": "https://github.com/StewAlexander-com/yaml_parser"
+    }
+  }
+}
