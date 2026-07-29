@@ -194,9 +194,9 @@ function renderIntegrityPanel() {
       <div style="margin-top:14px; padding-top:12px; border-top:1px solid var(--border); font-size:12px; color:var(--text-faint); line-height:1.8;">
         <strong style="color:var(--text-dim);">How to independently verify any number on this page:</strong><br>
         1. Every raw API response this collector has ever received is appended, unmodified, to
-        <a class="repo-link" href="data/raw_log.jsonl" target="_blank" rel="noopener">data/raw_log.jsonl</a> &mdash; that file is never rewritten, only appended to.<br>
-        2. <a class="repo-link" href="data/history.json" target="_blank" rel="noopener">data/history.json</a> (what this page reads) is a derived view built from that log.<br>
-        3. <code>scripts/verify_history.py</code> rebuilds the derived view from raw evidence alone and diffs it against what's committed &mdash; if they ever disagree, that script says exactly where, loudly.<br>
+        <a class="repo-link" href="data/raw_log.jsonl" target="_blank" rel="noopener">data/raw_log.jsonl</a> (<a class="repo-link" href="https://github.com/StewAlexander-com/metrics-node-4091ed86/blob/master/data/raw_log.jsonl" target="_blank" rel="noopener">repo view</a>) &mdash; that file is never rewritten, only appended to.<br>
+        2. <a class="repo-link" href="data/history.json" target="_blank" rel="noopener">data/history.json</a> (<a class="repo-link" href="https://github.com/StewAlexander-com/metrics-node-4091ed86/blob/master/data/history.json" target="_blank" rel="noopener">repo view</a>) (what this page reads) is a derived view built from that log.<br>
+        3. <a class="repo-link" href="https://github.com/StewAlexander-com/metrics-node-4091ed86/blob/master/scripts/verify_history.py" target="_blank" rel="noopener"><code>scripts/verify_history.py</code></a> rebuilds the derived view from raw evidence alone and diffs it against what's committed &mdash; if they ever disagree, that script says exactly where, loudly.<br>
         4. Every commit to this repo is timestamped and public in the repo's own commit history, so any historical value can be traced to the exact automated run that produced it.<br><br>
         <strong style="color:var(--text-dim);">What GitHub's own numbers do and don't mean:</strong> "views"/"clones" are GitHub's server-side counts and may include automated traffic (CI, bots, link previews) &mdash; they are not a proxy for human interest alone.
         "Uniques" are GitHub's own deduplication logic, not independently verified.
