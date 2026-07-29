@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-07-29T20:36:42.928536+00:00",
+  "generated_at": "2026-07-29T20:50:40.390924+00:00",
+  "last_run": {
+    "github_run_url": null,
+    "github_workflow": null,
+    "repos_excluded": [
+      "pplx-connector-test-delete-me"
+    ],
+    "repos_ok": 46,
+    "repos_total": 47,
+    "repos_with_errors": [
+      {
+        "errors": [
+          {
+            "endpoint": "traffic_paths",
+            "error": "gh: HTTP 429",
+            "status": null
+          }
+        ],
+        "repo": "show-ip-arp-mac-lookup"
+      }
+    ],
+    "timestamp": "2026-07-29T20:50:40.390924+00:00"
+  },
   "owner": "StewAlexander-com",
   "repos": {
     "AI-Human-Mutualism": {
+      "collection_errors": [],
       "createdAt": "2026-07-18T15:59:34Z",
       "daily_clones": {
         "2026-07-15": {
@@ -132,7 +155,7 @@
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -165,6 +188,7 @@
       "url": "https://github.com/StewAlexander-com/AI-Human-Mutualism"
     },
     "Awesome-Mnemonics": {
+      "collection_errors": [],
       "createdAt": "2022-12-24T14:44:04Z",
       "daily_clones": {
         "2026-07-15": {
@@ -294,7 +318,7 @@
       },
       "isPrivate": false,
       "language": "Rich Text Format",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -344,6 +368,7 @@
       "url": "https://github.com/StewAlexander-com/Awesome-Mnemonics"
     },
     "Chocolatey-ElasticSearch": {
+      "collection_errors": [],
       "createdAt": "2020-02-28T12:36:30Z",
       "daily_clones": {
         "2026-07-15": {
@@ -473,7 +498,7 @@
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -488,6 +513,7 @@
       "url": "https://github.com/StewAlexander-com/Chocolatey-ElasticSearch"
     },
     "ChromaTerm": {
+      "collection_errors": [],
       "createdAt": "2023-11-20T00:31:56Z",
       "daily_clones": {
         "2026-07-15": {
@@ -617,7 +643,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-07-06T17:50:17Z",
@@ -625,6 +651,7 @@
       "url": "https://github.com/StewAlexander-com/ChromaTerm"
     },
     "Falling-Bricks-Mobile-Game": {
+      "collection_errors": [],
       "createdAt": "2025-05-03T12:13:35Z",
       "daily_clones": {
         "2026-07-15": {
@@ -754,7 +781,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -775,6 +802,7 @@
       "url": "https://github.com/StewAlexander-com/Falling-Bricks-Mobile-Game"
     },
     "File_Cleanup": {
+      "collection_errors": [],
       "createdAt": "2025-11-14T17:55:26Z",
       "daily_clones": {
         "2026-07-15": {
@@ -904,7 +932,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2025-12-24T17:08:07Z",
@@ -912,6 +940,7 @@
       "url": "https://github.com/StewAlexander-com/File_Cleanup"
     },
     "Find-Incomplete-MAC-Addrresses.py": {
+      "collection_errors": [],
       "createdAt": "2021-12-01T17:17:05Z",
       "daily_clones": {
         "2026-07-15": {
@@ -1041,7 +1070,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2025-12-24T16:30:15Z",
@@ -1049,6 +1078,7 @@
       "url": "https://github.com/StewAlexander-com/Find-Incomplete-MAC-Addrresses.py"
     },
     "Fractal-Mandala-3D": {
+      "collection_errors": [],
       "createdAt": "2026-03-19T09:22:56Z",
       "daily_clones": {
         "2026-07-15": {
@@ -1178,7 +1208,7 @@
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -1199,6 +1229,7 @@
       "url": "https://github.com/StewAlexander-com/Fractal-Mandala-3D"
     },
     "Linux-Tools": {
+      "collection_errors": [],
       "createdAt": "2021-11-12T15:57:07Z",
       "daily_clones": {
         "2026-07-15": {
@@ -1328,7 +1359,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -1354,6 +1385,7 @@
       "url": "https://github.com/StewAlexander-com/Linux-Tools"
     },
     "MAC-Converter": {
+      "collection_errors": [],
       "createdAt": "2021-11-09T14:47:31Z",
       "daily_clones": {
         "2026-07-15": {
@@ -1483,7 +1515,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2023-11-20T01:09:00Z",
@@ -1491,6 +1523,7 @@
       "url": "https://github.com/StewAlexander-com/MAC-Converter"
     },
     "MAC-Table-Tool": {
+      "collection_errors": [],
       "createdAt": "2022-04-04T21:26:48Z",
       "daily_clones": {
         "2026-07-15": {
@@ -1620,7 +1653,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2022-05-19T15:44:17Z",
@@ -1628,6 +1661,7 @@
       "url": "https://github.com/StewAlexander-com/MAC-Table-Tool"
     },
     "MAC2CSV": {
+      "collection_errors": [],
       "createdAt": "2022-03-11T22:13:05Z",
       "daily_clones": {
         "2026-07-15": {
@@ -1757,7 +1791,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2023-11-12T16:56:04Z",
@@ -1765,6 +1799,7 @@
       "url": "https://github.com/StewAlexander-com/MAC2CSV"
     },
     "MebaneWeather": {
+      "collection_errors": [],
       "createdAt": "2025-06-11T16:27:28Z",
       "daily_clones": {
         "2026-07-15": {
@@ -1894,7 +1929,7 @@
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -1915,6 +1950,7 @@
       "url": "https://github.com/StewAlexander-com/MebaneWeather"
     },
     "NetDisco-Ubuntu-Install": {
+      "collection_errors": [],
       "createdAt": "2019-07-17T13:22:47Z",
       "daily_clones": {
         "2026-07-15": {
@@ -2044,7 +2080,7 @@
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -2088,6 +2124,7 @@
       "url": "https://github.com/StewAlexander-com/NetDisco-Ubuntu-Install"
     },
     "NetSearch": {
+      "collection_errors": [],
       "createdAt": "2022-04-01T00:17:22Z",
       "daily_clones": {
         "2026-07-15": {
@@ -2217,7 +2254,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2022-05-24T20:26:20Z",
@@ -2225,6 +2262,38 @@
       "url": "https://github.com/StewAlexander-com/NetSearch"
     },
     "Python-Power-User": {
+      "collection_errors": [
+        {
+          "errors": [
+            {
+              "endpoint": "traffic_views",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_clones",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_referrers",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_paths",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "repo_detail",
+              "error": "gh: HTTP 429",
+              "status": null
+            }
+          ],
+          "run_ts": "2026-07-29T20:47:57.458102+00:00"
+        }
+      ],
       "createdAt": "2026-03-13T07:21:43Z",
       "daily_clones": {
         "2026-07-15": {
@@ -2354,7 +2423,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-04-17T12:32:21Z",
@@ -2362,6 +2431,38 @@
       "url": "https://github.com/StewAlexander-com/Python-Power-User"
     },
     "ShadowVendor": {
+      "collection_errors": [
+        {
+          "errors": [
+            {
+              "endpoint": "traffic_views",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_clones",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_referrers",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_paths",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "repo_detail",
+              "error": "gh: HTTP 429",
+              "status": null
+            }
+          ],
+          "run_ts": "2026-07-29T20:47:57.458102+00:00"
+        }
+      ],
       "createdAt": "2021-12-02T22:30:43Z",
       "daily_clones": {
         "2026-07-15": {
@@ -2491,7 +2592,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -2571,6 +2672,7 @@
       "url": "https://github.com/StewAlexander-com/ShadowVendor"
     },
     "StewAlexander-com": {
+      "collection_errors": [],
       "createdAt": "2022-10-06T11:34:57Z",
       "daily_clones": {
         "2026-07-15": {
@@ -2700,7 +2802,7 @@
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -2715,6 +2817,7 @@
       "url": "https://github.com/StewAlexander-com/StewAlexander-com"
     },
     "VIM-Awesome-Cheatsheet": {
+      "collection_errors": [],
       "createdAt": "2022-10-06T08:36:48Z",
       "daily_clones": {
         "2026-07-15": {
@@ -2844,7 +2947,7 @@
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 2,
       "popular_paths": [
         {
@@ -2859,6 +2962,7 @@
       "url": "https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet"
     },
     "VSCODE-mobile-Cheat-Sheet": {
+      "collection_errors": [],
       "createdAt": "2026-04-25T12:58:13Z",
       "daily_clones": {
         "2026-07-15": {
@@ -2988,7 +3092,7 @@
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-04-25T16:16:30Z",
@@ -2996,6 +3100,7 @@
       "url": "https://github.com/StewAlexander-com/VSCODE-mobile-Cheat-Sheet"
     },
     "Weebly-Updates": {
+      "collection_errors": [],
       "createdAt": "2026-07-13T17:56:47Z",
       "daily_clones": {
         "2026-07-15": {
@@ -3125,7 +3230,7 @@
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -3140,6 +3245,7 @@
       "url": "https://github.com/StewAlexander-com/Weebly-Updates"
     },
     "carettab": {
+      "collection_errors": [],
       "createdAt": "2020-01-16T13:59:36Z",
       "daily_clones": {
         "2026-07-15": {
@@ -3269,7 +3375,7 @@
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2020-01-07T17:04:39Z",
@@ -3277,6 +3383,7 @@
       "url": "https://github.com/StewAlexander-com/carettab"
     },
     "cashier-change": {
+      "collection_errors": [],
       "createdAt": "2025-01-16T21:49:31Z",
       "daily_clones": {
         "2026-07-15": {
@@ -3406,7 +3513,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2025-09-07T09:50:37Z",
@@ -3414,6 +3521,7 @@
       "url": "https://github.com/StewAlexander-com/cashier-change"
     },
     "checkbook_balancer.py": {
+      "collection_errors": [],
       "createdAt": "2020-03-06T17:14:23Z",
       "daily_clones": {
         "2026-07-15": {
@@ -3543,7 +3651,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2020-07-11T13:16:51Z",
@@ -3551,6 +3659,7 @@
       "url": "https://github.com/StewAlexander-com/checkbook_balancer.py"
     },
     "chocolatey.org": {
+      "collection_errors": [],
       "createdAt": "2020-02-28T14:48:52Z",
       "daily_clones": {
         "2026-07-15": {
@@ -3680,7 +3789,7 @@
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2020-02-28T15:00:47Z",
@@ -3688,6 +3797,7 @@
       "url": "https://github.com/StewAlexander-com/chocolatey.org"
     },
     "continuous-ai": {
+      "collection_errors": [],
       "createdAt": "2026-06-13T18:20:29Z",
       "daily_clones": {
         "2026-07-15": {
@@ -3817,7 +3927,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -3897,6 +4007,7 @@
       "url": "https://github.com/StewAlexander-com/continuous-ai"
     },
     "count-patterns-in-file.py": {
+      "collection_errors": [],
       "createdAt": "2021-10-30T19:40:25Z",
       "daily_clones": {
         "2026-07-15": {
@@ -4026,7 +4137,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2021-11-05T16:16:27Z",
@@ -4034,6 +4145,7 @@
       "url": "https://github.com/StewAlexander-com/count-patterns-in-file.py"
     },
     "energy-density-ideas": {
+      "collection_errors": [],
       "createdAt": "2026-05-18T11:28:32Z",
       "daily_clones": {
         "2026-07-16": {
@@ -4163,7 +4275,7 @@
       },
       "isPrivate": true,
       "language": null,
-      "last_collected": "2026-07-29T17:34:04.152595+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-05-18T11:28:34Z",
@@ -4171,6 +4283,7 @@
       "url": "https://github.com/StewAlexander-com/energy-density-ideas"
     },
     "global-tensor-network": {
+      "collection_errors": [],
       "createdAt": "2026-04-10T10:58:18Z",
       "daily_clones": {
         "2026-07-15": {
@@ -4300,7 +4413,7 @@
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -4315,6 +4428,7 @@
       "url": "https://github.com/StewAlexander-com/global-tensor-network"
     },
     "internet-up-clean": {
+      "collection_errors": [],
       "createdAt": "2021-11-04T04:51:19Z",
       "daily_clones": {
         "2026-07-15": {
@@ -4444,7 +4558,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2021-11-05T16:05:08Z",
@@ -4452,6 +4566,7 @@
       "url": "https://github.com/StewAlexander-com/internet-up-clean"
     },
     "linux-gunk": {
+      "collection_errors": [],
       "createdAt": "2022-04-19T18:53:02Z",
       "daily_clones": {
         "2026-07-16": {
@@ -4581,7 +4696,7 @@
       },
       "isPrivate": true,
       "language": null,
-      "last_collected": "2026-07-29T17:34:04.152595+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2022-04-19T18:53:03Z",
@@ -4589,6 +4704,7 @@
       "url": "https://github.com/StewAlexander-com/linux-gunk"
     },
     "linuxtech.me": {
+      "collection_errors": [],
       "createdAt": "2020-01-02T17:29:46Z",
       "daily_clones": {
         "2026-07-15": {
@@ -4718,7 +4834,7 @@
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2020-07-22T15:19:16Z",
@@ -4726,6 +4842,7 @@
       "url": "https://github.com/StewAlexander-com/linuxtech.me"
     },
     "live-tech-news": {
+      "collection_errors": [],
       "createdAt": "2026-04-19T19:47:53Z",
       "daily_clones": {
         "2026-07-15": {
@@ -4855,7 +4972,7 @@
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 1,
       "popular_paths": [
         {
@@ -4877,7 +4994,7 @@
           "uniques": 1
         }
       ],
-      "pushedAt": "2026-07-29T20:04:11Z",
+      "pushedAt": "2026-07-29T20:41:14Z",
       "referrers": [
         {
           "count": 5,
@@ -4888,6 +5005,7 @@
       "url": "https://github.com/StewAlexander-com/live-tech-news"
     },
     "maclookup.py": {
+      "collection_errors": [],
       "createdAt": "2025-04-15T19:36:26Z",
       "daily_clones": {
         "2026-07-15": {
@@ -5017,7 +5135,7 @@
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 1,
       "popular_paths": [
         {
@@ -5044,6 +5162,7 @@
       "url": "https://github.com/StewAlexander-com/maclookup.py"
     },
     "metrics-node-4091ed86": {
+      "collection_errors": [],
       "createdAt": "2026-07-29T17:47:00Z",
       "daily_clones": {
         "2026-07-16": {
@@ -5173,14 +5292,15 @@
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
-      "pushedAt": "2026-07-29T17:47:03Z",
+      "pushedAt": "2026-07-29T20:37:18Z",
       "referrers": [],
       "url": "https://github.com/StewAlexander-com/metrics-node-4091ed86"
     },
     "nemomac": {
+      "collection_errors": [],
       "createdAt": "2026-05-30T14:27:40Z",
       "daily_clones": {
         "2026-07-16": {
@@ -5310,7 +5430,7 @@
       },
       "isPrivate": true,
       "language": "TypeScript",
-      "last_collected": "2026-07-29T17:34:04.152595+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-06-30T18:38:06Z",
@@ -5318,6 +5438,7 @@
       "url": "https://github.com/StewAlexander-com/nemomac"
     },
     "network-attack-visualizer": {
+      "collection_errors": [],
       "createdAt": "2026-04-03T13:44:56Z",
       "daily_clones": {
         "2026-07-15": {
@@ -5447,7 +5568,7 @@
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -5462,6 +5583,33 @@
       "url": "https://github.com/StewAlexander-com/network-attack-visualizer"
     },
     "pocket-card": {
+      "collection_errors": [
+        {
+          "errors": [
+            {
+              "endpoint": "traffic_clones",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_referrers",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_paths",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "repo_detail",
+              "error": "gh: HTTP 429",
+              "status": null
+            }
+          ],
+          "run_ts": "2026-07-29T20:47:57.458102+00:00"
+        }
+      ],
       "createdAt": "2026-04-22T12:38:50Z",
       "daily_clones": {
         "2026-07-15": {
@@ -5591,7 +5739,7 @@
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-04-24T13:54:05Z",
@@ -5599,6 +5747,38 @@
       "url": "https://github.com/StewAlexander-com/pocket-card"
     },
     "python-cheatsheet": {
+      "collection_errors": [
+        {
+          "errors": [
+            {
+              "endpoint": "traffic_views",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_clones",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_referrers",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_paths",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "repo_detail",
+              "error": "gh: HTTP 429",
+              "status": null
+            }
+          ],
+          "run_ts": "2026-07-29T20:47:57.458102+00:00"
+        }
+      ],
       "createdAt": "2020-03-18T18:24:14Z",
       "daily_clones": {
         "2026-07-15": {
@@ -5728,7 +5908,7 @@
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -5743,6 +5923,38 @@
       "url": "https://github.com/StewAlexander-com/python-cheatsheet"
     },
     "python-tutor": {
+      "collection_errors": [
+        {
+          "errors": [
+            {
+              "endpoint": "traffic_views",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_clones",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_referrers",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_paths",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "repo_detail",
+              "error": "gh: HTTP 429",
+              "status": null
+            }
+          ],
+          "run_ts": "2026-07-29T20:47:57.458102+00:00"
+        }
+      ],
       "createdAt": "2026-05-16T11:22:46Z",
       "daily_clones": {
         "2026-07-15": {
@@ -5872,7 +6084,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-05-22T13:15:00Z",
@@ -5880,6 +6092,38 @@
       "url": "https://github.com/StewAlexander-com/python-tutor"
     },
     "rain-view": {
+      "collection_errors": [
+        {
+          "errors": [
+            {
+              "endpoint": "traffic_views",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_clones",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_referrers",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_paths",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "repo_detail",
+              "error": "gh: HTTP 429",
+              "status": null
+            }
+          ],
+          "run_ts": "2026-07-29T20:47:57.458102+00:00"
+        }
+      ],
       "createdAt": "2026-04-05T03:44:36Z",
       "daily_clones": {
         "2026-07-15": {
@@ -6009,7 +6253,7 @@
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -6024,6 +6268,38 @@
       "url": "https://github.com/StewAlexander-com/rain-view"
     },
     "saltstack-mac2csv": {
+      "collection_errors": [
+        {
+          "errors": [
+            {
+              "endpoint": "traffic_views",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_clones",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_referrers",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_paths",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "repo_detail",
+              "error": "gh: HTTP 429",
+              "status": null
+            }
+          ],
+          "run_ts": "2026-07-29T20:47:57.458102+00:00"
+        }
+      ],
       "createdAt": "2022-04-18T19:02:00Z",
       "daily_clones": {
         "2026-07-15": {
@@ -6153,7 +6429,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -6168,6 +6444,48 @@
       "url": "https://github.com/StewAlexander-com/saltstack-mac2csv"
     },
     "show-ip-arp-mac-lookup": {
+      "collection_errors": [
+        {
+          "errors": [
+            {
+              "endpoint": "traffic_views",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_clones",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_referrers",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "traffic_paths",
+              "error": "gh: HTTP 429",
+              "status": null
+            },
+            {
+              "endpoint": "repo_detail",
+              "error": "gh: HTTP 429",
+              "status": null
+            }
+          ],
+          "run_ts": "2026-07-29T20:47:57.458102+00:00"
+        },
+        {
+          "errors": [
+            {
+              "endpoint": "traffic_paths",
+              "error": "gh: HTTP 429",
+              "status": null
+            }
+          ],
+          "run_ts": "2026-07-29T20:50:40.390924+00:00"
+        }
+      ],
       "createdAt": "2021-12-01T20:49:37Z",
       "daily_clones": {
         "2026-07-15": {
@@ -6297,7 +6615,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -6312,6 +6630,7 @@
       "url": "https://github.com/StewAlexander-com/show-ip-arp-mac-lookup"
     },
     "the-art-of-command-line": {
+      "collection_errors": [],
       "createdAt": "2020-04-03T20:07:12Z",
       "daily_clones": {
         "2026-07-15": {
@@ -6441,7 +6760,7 @@
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2020-03-25T16:24:51Z",
@@ -6449,6 +6768,7 @@
       "url": "https://github.com/StewAlexander-com/the-art-of-command-line"
     },
     "tropical-todo-list": {
+      "collection_errors": [],
       "createdAt": "2026-06-28T14:04:54Z",
       "daily_clones": {
         "2026-07-15": {
@@ -6578,7 +6898,7 @@
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-06-29T14:27:22Z",
@@ -6586,6 +6906,7 @@
       "url": "https://github.com/StewAlexander-com/tropical-todo-list"
     },
     "vsix-cve-scanner": {
+      "collection_errors": [],
       "createdAt": "2026-05-21T18:47:18Z",
       "daily_clones": {
         "2026-07-16": {
@@ -6715,7 +7036,7 @@
       },
       "isPrivate": true,
       "language": "Python",
-      "last_collected": "2026-07-29T17:34:04.152595+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-05-21T19:38:53Z",
@@ -6723,6 +7044,7 @@
       "url": "https://github.com/StewAlexander-com/vsix-cve-scanner"
     },
     "yaml_parser": {
+      "collection_errors": [],
       "createdAt": "2021-10-29T21:45:04Z",
       "daily_clones": {
         "2026-07-15": {
@@ -6852,7 +7174,7 @@
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-07-29T20:36:42.928536+00:00",
+      "last_collected": "2026-07-29T20:50:40.390924+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2021-11-05T15:53:01Z",

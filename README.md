@@ -42,8 +42,43 @@ though GitHub itself only ever shows you the last 14 days at a time.
 - `scripts/collect.py` — the collector. Works two ways: via a real token
   (`GH_TOKEN` env var, used by Actions) or via the `gh` CLI if already
   authenticated (used for local/manual runs).
-- `data/history.json` — the compounding data store.
-- `.github/workflows/collect.yml` — the daily scheduled job.
+- `data/history.json` — the compounding data store (a **derived view**).
+- `data/raw_log.jsonl` — append-only, permanent ground truth: every raw API
+  response (or error) the collector has ever received, one JSON line per
+  call. Never rewritten, only appended to.
+- `scripts/verify_history.py` — rebuilds the views/clones series purely
+  from `raw_log.jsonl` and diffs it against `history.json`. The workflow
+  runs this before every commit and fails the run if they disagree, so
+  drift (bugs or tampering) can never land silently.
+- `scripts/backfill_raw_log.py` — one-time backfill that converted the
+  very first (pre-audit-log) collection run into proper raw_log entries,
+  kept here so the provenance of the earliest data points stays inspectable.
+- `.github/workflows/collect.yml` — the daily scheduled job: collect →
+  verify → commit (in that order — nothing gets committed until it passes
+  verification against raw evidence).
+
+## What "auditable and honest" means concretely here
+
+- **No fabricated zeros.** A date with no GitHub observation is left
+  absent, not recorded as 0. Charts render these as real gaps, never as
+  flat/zero activity.
+- **No silent failures.** If an API call fails for a repo, it's recorded
+  in `collection_errors` on that repo and in `last_run.repos_with_errors`
+  — visible on the dashboard itself, not swallowed.
+- **No silent exclusions.** Anything left out of tracking is in an explicit
+  `EXCLUDED_REPOS` set in `collect.py` with a comment explaining why, and
+  surfaced in the dashboard's integrity panel.
+- **Every number is traceable.** `history.json` is provably a faithful
+  merge of `raw_log.jsonl` (verified automatically every run). Every commit
+  is timestamped in this repo's own git history, and Actions-run commits
+  link back to the exact automation run that produced them.
+- **Provisional data is labeled as such.** The current UTC day's views/clones
+  count is explicitly marked provisional — GitHub itself finalizes same-day
+  counts progressively throughout the day.
+- **Snapshot vs. accumulated is labeled.** Referrers/popular paths are
+  GitHub's latest-14-day snapshot only (not accumulated over time); views/
+  clones/stars/forks/watchers are the ones that compound via the daily
+  collector.
 
 ## Privacy note
 

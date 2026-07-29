@@ -37,6 +37,9 @@
 
   <div class="cards" id="summary-cards"></div>
 
+  <div class="section-title">Data integrity &amp; provenance</div>
+  <div id="integrity-panel"></div>
+
   <div class="section-title">Leaderboards</div>
   <div class="leaderboards">
     <div class="board">
@@ -65,12 +68,9 @@
   <div id="accordion"></div>
 
   <div class="footer-meta">
-    Methodology: GitHub's Traffic API only exposes a rolling 14-day window for views and clones.
-    A scheduled collector merges each day's numbers into a permanent local store keyed by date,
-    so history compounds over time instead of resetting every 14 days &mdash; the longer this runs,
-    the further back the charts above will reach. Referrers and popular paths reflect GitHub's
-    latest 14-day snapshot only (not accumulated). Stars/forks/watchers are point-in-time snapshots
-    taken on each collection run.
+    See the "Data integrity &amp; provenance" panel above for exact collection status, error
+    transparency, and how to independently verify any number on this page from raw evidence.
+    Source: <a href="https://github.com/StewAlexander-com/metrics-node-4091ed86" target="_blank" rel="noopener">this repo's own commit history</a>.
   </div>
 </div>
 

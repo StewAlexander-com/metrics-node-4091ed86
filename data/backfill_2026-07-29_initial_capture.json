@@ -1,0 +1,7943 @@
+[
+  {
+    "name": "live-tech-news",
+    "description": "Rotating live tech news board (Gadgets, Innovation, AI, Science). PWA, fuzzy search, 90-day archive. Auto-updated via GitHub Actions.",
+    "url": "https://github.com/StewAlexander-com/live-tech-news",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "JavaScript",
+    "pushedAt": "2026-07-29T17:23:29Z",
+    "createdAt": "2026-04-19T19:47:53Z",
+    "traffic_views": {
+      "count": 5,
+      "uniques": 2,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 2914,
+      "uniques": 591,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 305,
+          "uniques": 94
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 230,
+          "uniques": 70
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 212,
+          "uniques": 61
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 282,
+          "uniques": 78
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 297,
+          "uniques": 85
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 172,
+          "uniques": 49
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 182,
+          "uniques": 55
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 202,
+          "uniques": 70
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 171,
+          "uniques": 65
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 167,
+          "uniques": 63
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 169,
+          "uniques": 57
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 206,
+          "uniques": 65
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 135,
+          "uniques": 42
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 184,
+          "uniques": 72
+        }
+      ]
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 5,
+        "uniques": 2
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/live-tech-news",
+        "title": "Overview",
+        "count": 3,
+        "uniques": 2
+      },
+      {
+        "path": "/StewAlexander-com/live-tech-news/blob/main/scripts/update_news.py",
+        "title": "/blob/main/scripts/update_news.py",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/live-tech-news/tree/main/scripts",
+        "title": "/tree/main/scripts",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 0,
+    "open_issues": 1,
+    "size_kb": 37088,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "continuous-ai",
+    "description": "Aida \u2014 a fully offline, cross-platform memory + integrity runtime for local LLMs on Ollama. Won't fabricate (20%\u21920% confabulation); memory you own, audit, and correct.",
+    "url": "https://github.com/StewAlexander-com/continuous-ai",
+    "isPrivate": false,
+    "stars": 2,
+    "forks": 1,
+    "language": "Python",
+    "pushedAt": "2026-07-28T16:32:50Z",
+    "createdAt": "2026-06-13T18:20:29Z",
+    "traffic_views": {
+      "count": 22,
+      "uniques": 3,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 3,
+          "uniques": 1
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 325,
+      "uniques": 78,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 101,
+          "uniques": 32
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 69,
+          "uniques": 19
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 12,
+          "uniques": 4
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 56,
+          "uniques": 16
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 82,
+          "uniques": 15
+        }
+      ]
+    },
+    "referrers": [
+      {
+        "referrer": "honest-aida.ai",
+        "count": 3,
+        "uniques": 1
+      },
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/continuous-ai",
+        "title": "Overview",
+        "count": 8,
+        "uniques": 2
+      },
+      {
+        "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.18",
+        "title": "/releases/tag/v2.14.18",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.19",
+        "title": "/releases/tag/v2.14.19",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/continuous-ai/commit/89248a1",
+        "title": "/commit/89248a1",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.10",
+        "title": "/releases/tag/v2.14.10",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.11",
+        "title": "/releases/tag/v2.14.11",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.12",
+        "title": "/releases/tag/v2.14.12",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.13",
+        "title": "/releases/tag/v2.14.13",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.15",
+        "title": "/releases/tag/v2.14.15",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/continuous-ai/releases/tag/v2.14.17",
+        "title": "/releases/tag/v2.14.17",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 10047,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [
+      "ai-agents",
+      "ai-memory",
+      "apple-silicon",
+      "cli",
+      "cross-platform",
+      "lancedb",
+      "llm",
+      "local-llm",
+      "lora",
+      "mlx",
+      "offline-ai",
+      "ollama",
+      "on-device-ai",
+      "privacy",
+      "python",
+      "self-hosted"
+    ],
+    "network_count": 1
+  },
+  {
+    "name": "maclookup.py",
+    "description": "Look up a MAC address's manufacturer  in any format without an internet connection",
+    "url": "https://github.com/StewAlexander-com/maclookup.py",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "JavaScript",
+    "pushedAt": "2026-07-27T10:49:46Z",
+    "createdAt": "2025-04-15T19:36:26Z",
+    "traffic_views": {
+      "count": 3,
+      "uniques": 2,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 7,
+      "uniques": 6,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 2
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/maclookup.py",
+        "title": "Overview",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/StewAlexander-com/maclookup.py/blob/main/README.md",
+        "title": "/blob/main/README.md",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 1,
+    "open_issues": 1,
+    "size_kb": 4533,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [
+      "mac-address",
+      "mac-address-analyzer",
+      "network-tools",
+      "networking",
+      "oui-lookup",
+      "oui-search",
+      "python3",
+      "pythonista-ios"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "AI-Human-Mutualism",
+    "description": "AI\u2013Human Mutualism: guardrails so two intelligences leave a conversation clearer than they entered. Partial filters, finite attention, two dials \u2014 not politeness, partnership.",
+    "url": "https://github.com/StewAlexander-com/AI-Human-Mutualism",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": null,
+    "pushedAt": "2026-07-18T18:56:10Z",
+    "createdAt": "2026-07-18T15:59:34Z",
+    "traffic_views": {
+      "count": 33,
+      "uniques": 3,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 33,
+          "uniques": 3
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 155,
+      "uniques": 72,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 138,
+          "uniques": 59
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/AI-Human-Mutualism",
+        "title": "Overview",
+        "count": 28,
+        "uniques": 3
+      },
+      {
+        "path": "/StewAlexander-com/AI-Human-Mutualism/blob/master/LICENSE",
+        "title": "/blob/master/LICENSE",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/AI-Human-Mutualism/releases/tag/v1.0.0",
+        "title": "/releases/tag/v1.0.0",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/AI-Human-Mutualism/releases/tag/v1.1.0",
+        "title": "/releases/tag/v1.1.0",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 1127,
+    "has_pages": false,
+    "default_branch": "master",
+    "topics": [
+      "ai",
+      "ai-ethics",
+      "ai-safety",
+      "artificial-intelligence",
+      "collaboration",
+      "guardrails",
+      "human-ai-interaction",
+      "llm",
+      "mutualism",
+      "philosophy",
+      "responsible-ai",
+      "systems-thinking"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "Fractal-Mandala-3D",
+    "description": "Seven layers of sacred geometry. One interactive journey inward. A 3D quantum orbital mandala built with Three.js.",
+    "url": "https://github.com/StewAlexander-com/Fractal-Mandala-3D",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "JavaScript",
+    "pushedAt": "2026-07-15T14:25:25Z",
+    "createdAt": "2026-03-19T09:22:56Z",
+    "traffic_views": {
+      "count": 2,
+      "uniques": 2,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 61,
+      "uniques": 24,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 49,
+          "uniques": 16
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/Fractal-Mandala-3D",
+        "title": "Overview",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/Fractal-Mandala-3D/releases",
+        "title": "/releases",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 4710,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [
+      "3d",
+      "fractal",
+      "interactive",
+      "interactive-3d",
+      "mandala",
+      "meditation",
+      "sacred-geometry",
+      "threejs",
+      "webgl"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "Linux-Tools",
+    "description": "List of Linux Tools I put on almost every linux / Debian host, with a lazy installer for those who just want all the tools at once",
+    "url": "https://github.com/StewAlexander-com/Linux-Tools",
+    "isPrivate": false,
+    "stars": 32,
+    "forks": 6,
+    "language": "Python",
+    "pushedAt": "2026-07-14T17:59:28Z",
+    "createdAt": "2021-11-12T15:57:07Z",
+    "traffic_views": {
+      "count": 20,
+      "uniques": 18,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 7,
+          "uniques": 5
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 16,
+      "uniques": 16,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [
+      {
+        "referrer": "Google",
+        "count": 13,
+        "uniques": 12
+      },
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/Linux-Tools",
+        "title": "Overview",
+        "count": 20,
+        "uniques": 18
+      }
+    ],
+    "watchers_count": 5,
+    "open_issues": 0,
+    "size_kb": 257,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [
+      "apps",
+      "cli",
+      "command-line",
+      "installer",
+      "lazy",
+      "linux",
+      "terminal",
+      "tools",
+      "tui"
+    ],
+    "network_count": 6
+  },
+  {
+    "name": "MebaneWeather",
+    "description": "Severe weather dashboard for Mebane North Carolina's MebaneWeather.com",
+    "url": "https://github.com/StewAlexander-com/MebaneWeather",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "HTML",
+    "pushedAt": "2026-07-13T20:23:42Z",
+    "createdAt": "2025-06-11T16:27:28Z",
+    "traffic_views": {
+      "count": 4,
+      "uniques": 4,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 13,
+      "uniques": 9,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/MebaneWeather",
+        "title": "Overview",
+        "count": 4,
+        "uniques": 4
+      }
+    ],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 465,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [
+      "alerts",
+      "embed",
+      "forecast",
+      "html",
+      "javascript",
+      "mebane",
+      "noaa",
+      "north-carolina",
+      "nws",
+      "open-meteo",
+      "severe-weather",
+      "spc",
+      "weather",
+      "weather-dashboard",
+      "weebly",
+      "winter-weather"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "Weebly-Updates",
+    "description": "Hardened Weebly embed widgets for MebaneWeather.com (forecast dashboard + live radar)",
+    "url": "https://github.com/StewAlexander-com/Weebly-Updates",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "HTML",
+    "pushedAt": "2026-07-13T17:56:50Z",
+    "createdAt": "2026-07-13T17:56:47Z",
+    "traffic_views": {
+      "count": 1,
+      "uniques": 1,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 3,
+      "uniques": 3,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/Weebly-Updates",
+        "title": "Overview",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 62,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "ShadowVendor",
+    "description": "Network device vendor analysis tool - Transform MAC address tables into interactive dashboards, detect new vendors, and export SIEM events for security monitoring. Supports Cisco, Juniper, HP/Aruba, Extreme, Brocade and more.",
+    "url": "https://github.com/StewAlexander-com/ShadowVendor",
+    "isPrivate": false,
+    "stars": 7,
+    "forks": 2,
+    "language": "Python",
+    "pushedAt": "2026-07-10T13:55:41Z",
+    "createdAt": "2021-12-02T22:30:43Z",
+    "traffic_views": {
+      "count": 31,
+      "uniques": 15,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 8,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 11,
+          "uniques": 3
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 22,
+      "uniques": 11,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 2,
+          "uniques": 1
+        }
+      ]
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 27,
+        "uniques": 12
+      },
+      {
+        "referrer": "Google",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/ShadowVendor",
+        "title": "Overview",
+        "count": 17,
+        "uniques": 13
+      },
+      {
+        "path": "/StewAlexander-com/ShadowVendor/blob/main/TUTORIAL.md",
+        "title": "/blob/main/TUTORIAL.md",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/images/security-dashboard.png",
+        "title": "/blob/main/docs/images/security-dashboard.png",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/images/vendor-dashboard.png",
+        "title": "/blob/main/docs/images/vendor-dashboard.png",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/ShadowVendor/blob/main/ShadowVendor.py",
+        "title": "/blob/main/ShadowVendor.py",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/capture_dashboard_screenshots.py",
+        "title": "/blob/main/docs/capture_dashboard_screenshots.py",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/generate_images.py",
+        "title": "/blob/main/docs/generate_images.py",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/ShadowVendor/blob/main/docs/images/overview.png",
+        "title": "/blob/main/docs/images/overview.png",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/ShadowVendor/commit/4f399e3c8c36871cf1dbd3118d73631599f42504",
+        "title": "/commit/4f399e3c8c36871cf1dbd3118d73631599f42504",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/ShadowVendor/issues",
+        "title": "/issues",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 3,
+    "open_issues": 0,
+    "size_kb": 24028,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [
+      "arp-scanning",
+      "asset-inventory",
+      "cybersecurity",
+      "device-fingerprinting",
+      "incident-response",
+      "mac-address-analyzer",
+      "network-analysis",
+      "network-auditing",
+      "network-automation",
+      "network-discovery",
+      "network-monitoring",
+      "network-visualization",
+      "networking",
+      "oui-lookup",
+      "python",
+      "security-operations",
+      "shadow-it",
+      "siem",
+      "vendor-identification",
+      "zero-trust-security"
+    ],
+    "network_count": 2
+  },
+  {
+    "name": "ChromaTerm",
+    "description": "Color your Terminal with RegEx!",
+    "url": "https://github.com/StewAlexander-com/ChromaTerm",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2026-07-06T17:50:17Z",
+    "createdAt": "2023-11-20T00:31:56Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 7,
+      "uniques": 5,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 6245,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 44
+  },
+  {
+    "name": "nemomac",
+    "description": "Forensic macOS system monitor \u2014 tamper-evident, AI-interpreted, LAN-accessible PWA",
+    "url": "https://github.com/StewAlexander-com/nemomac",
+    "isPrivate": true,
+    "stars": 0,
+    "forks": 0,
+    "language": "TypeScript",
+    "pushedAt": "2026-06-30T18:38:06Z",
+    "createdAt": "2026-05-30T14:27:40Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 0,
+      "uniques": 0,
+      "clones": [
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 411,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "tropical-todo-list",
+    "description": "\ud83c\udf34 Tropical ToDos \u2014 a calm, local-first to-do list with a cinematic beach backdrop and gentle ocean waves. Private by design, offline-first, installable PWA.",
+    "url": "https://github.com/StewAlexander-com/tropical-todo-list",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "JavaScript",
+    "pushedAt": "2026-06-29T14:27:22Z",
+    "createdAt": "2026-06-28T14:04:54Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 3,
+      "uniques": 3,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 6606,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [
+      "indexeddb",
+      "local-first",
+      "offline-first",
+      "privacy",
+      "productivity",
+      "pwa",
+      "todo-app",
+      "todo-list",
+      "tropical",
+      "vanilla-js"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "Falling-Bricks-Mobile-Game",
+    "description": "Falling-Bricks-Game",
+    "url": "https://github.com/StewAlexander-com/Falling-Bricks-Mobile-Game",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2026-05-28T05:40:21Z",
+    "createdAt": "2025-05-03T12:13:35Z",
+    "traffic_views": {
+      "count": 2,
+      "uniques": 2,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 9,
+      "uniques": 9,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/Falling-Bricks-Mobile-Game",
+        "title": "Overview",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/Falling-Bricks-Mobile-Game/labels",
+        "title": "/labels",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 3020,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [
+      "arcade",
+      "arcade-game",
+      "game",
+      "iphone",
+      "iphone-app",
+      "iphone-application",
+      "iphone-game",
+      "python",
+      "python3",
+      "pythonista",
+      "pythonista-ios"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "python-tutor",
+    "description": "Offline-first Python tutor with a local LLM, codelab UI, safe-ish runner, and source-backed feedback.",
+    "url": "https://github.com/StewAlexander-com/python-tutor",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 1,
+    "language": "Python",
+    "pushedAt": "2026-05-22T13:15:00Z",
+    "createdAt": "2026-05-16T11:22:46Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 6,
+      "uniques": 6,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 3963,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [
+      "ai-tutor",
+      "code-runner",
+      "education",
+      "fastapi",
+      "gemma",
+      "learn-python",
+      "local-llm",
+      "offline-ai",
+      "ollama",
+      "pwa",
+      "python",
+      "python-tutor"
+    ],
+    "network_count": 1
+  },
+  {
+    "name": "vsix-cve-scanner",
+    "description": "VS Code extension CVE scanner via OSV.dev \u2014 multi-ecosystem, self-auditing",
+    "url": "https://github.com/StewAlexander-com/vsix-cve-scanner",
+    "isPrivate": true,
+    "stars": 0,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2026-05-21T19:38:53Z",
+    "createdAt": "2026-05-21T18:47:18Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 0,
+      "uniques": 0,
+      "clones": [
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 11,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "global-tensor-network",
+    "description": "Interactive tensor network model of 15 interconnected global systems \u2014 energy, climate, AI, water, geopolitics, critical minerals with verifiable push/pull couplings",
+    "url": "https://github.com/StewAlexander-com/global-tensor-network",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "HTML",
+    "pushedAt": "2026-05-18T13:13:52Z",
+    "createdAt": "2026-04-10T10:58:18Z",
+    "traffic_views": {
+      "count": 1,
+      "uniques": 1,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 4,
+      "uniques": 4,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/global-tensor-network/blob/main/docs/addenda/Power_Energy_Density_Ideas_Visual_Companion.pdf",
+        "title": "/blob/main/docs/addenda/Power_Energy_Density_Ideas_Visual_Companion.pdf",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 11674,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "energy-density-ideas",
+    "description": "",
+    "url": "https://github.com/StewAlexander-com/energy-density-ideas",
+    "isPrivate": true,
+    "stars": 0,
+    "forks": 0,
+    "language": null,
+    "pushedAt": "2026-05-18T11:28:34Z",
+    "createdAt": "2026-05-18T11:28:32Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 0,
+      "uniques": 0,
+      "clones": [
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-29T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 58,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "VSCODE-mobile-Cheat-Sheet",
+    "description": "Mobile-first, offline-ready Visual Studio Code cheat sheet \u2014 every shortcut, command, and quietly-brilliant tip for Mac and Windows.",
+    "url": "https://github.com/StewAlexander-com/VSCODE-mobile-Cheat-Sheet",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "JavaScript",
+    "pushedAt": "2026-04-25T16:16:30Z",
+    "createdAt": "2026-04-25T12:58:13Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 4,
+      "uniques": 4,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 164,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [
+      "cheatsheet",
+      "developer-tools",
+      "keyboard-shortcuts",
+      "mac",
+      "mobile-first",
+      "offline-first",
+      "productivity",
+      "pwa",
+      "visual-studio-code",
+      "vscode",
+      "windows"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "pocket-card",
+    "description": "Pocket Card \u2014 a single-page installable reminder card",
+    "url": "https://github.com/StewAlexander-com/pocket-card",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "HTML",
+    "pushedAt": "2026-04-24T13:54:05Z",
+    "createdAt": "2026-04-22T12:38:50Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 3,
+      "uniques": 3,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 5125,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "rain-view",
+    "description": "Find stillness in the rain \u2014 A contemplative ambient rain experience with 4 cozy scenes, procedural rain effects, and generative piano",
+    "url": "https://github.com/StewAlexander-com/rain-view",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "JavaScript",
+    "pushedAt": "2026-04-19T09:17:44Z",
+    "createdAt": "2026-04-05T03:44:36Z",
+    "traffic_views": {
+      "count": 1,
+      "uniques": 1,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 4,
+      "uniques": 4,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/rain-view",
+        "title": "Overview",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 155785,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [
+      "ambient",
+      "asmr",
+      "canvas",
+      "contemplative",
+      "generative-music",
+      "meditation",
+      "rain",
+      "relaxation",
+      "web-audio-api",
+      "zen"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "network-attack-visualizer",
+    "description": "Interactive Layer 2/3 network attack visualization \u2014 D3.js, zero backend, GitHub Pages",
+    "url": "https://github.com/StewAlexander-com/network-attack-visualizer",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "HTML",
+    "pushedAt": "2026-04-17T18:53:46Z",
+    "createdAt": "2026-04-03T13:44:56Z",
+    "traffic_views": {
+      "count": 1,
+      "uniques": 1,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 4,
+      "uniques": 4,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/network-attack-visualizer",
+        "title": "Overview",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 1375,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "Python-Power-User",
+    "description": "A comprehensive Python language reference & interactive TUI learning tool \u2014 47 sections, Monokai-themed curses interface, fault-tolerant CLI",
+    "url": "https://github.com/StewAlexander-com/Python-Power-User",
+    "isPrivate": false,
+    "stars": 2,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2026-04-17T12:32:21Z",
+    "createdAt": "2026-03-13T07:21:43Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 3,
+      "uniques": 3,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 4531,
+    "has_pages": true,
+    "default_branch": "main",
+    "topics": [
+      "beginner-friendly",
+      "cheatsheet",
+      "cli",
+      "coding",
+      "command-line",
+      "developer-tools",
+      "education",
+      "hacktoberfest",
+      "interactive",
+      "learn-to-code",
+      "learning",
+      "offline-first",
+      "practice",
+      "progressive-web-app",
+      "pwa",
+      "python",
+      "python3",
+      "reference",
+      "tui",
+      "tutorial"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "StewAlexander-com",
+    "description": "Config files for my GitHub profile.",
+    "url": "https://github.com/StewAlexander-com/StewAlexander-com",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": null,
+    "pushedAt": "2026-04-08T16:38:07Z",
+    "createdAt": "2022-10-06T11:34:57Z",
+    "traffic_views": {
+      "count": 1,
+      "uniques": 1,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 6,
+      "uniques": 6,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/StewAlexander-com/labels/bug",
+        "title": "/labels/bug",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 57,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [
+      "config",
+      "github-config"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "Awesome-Mnemonics",
+    "description": "\ud83e\udde0 A field guide to mnemonics for engineers: outages, RCAs, infra design, burnout, and conflict. Structured entries with when-to-use, pitfalls, combinations, and examples. Pipelines and playbooks for on-call situations.",
+    "url": "https://github.com/StewAlexander-com/Awesome-Mnemonics",
+    "isPrivate": false,
+    "stars": 17,
+    "forks": 0,
+    "language": "Rich Text Format",
+    "pushedAt": "2026-02-01T02:22:57Z",
+    "createdAt": "2022-12-24T14:44:04Z",
+    "traffic_views": {
+      "count": 9,
+      "uniques": 8,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 3,
+      "uniques": 3,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [
+      {
+        "referrer": "linkedin.com",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "saifex.kepco-enc.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/Awesome-Mnemonics",
+        "title": "Overview",
+        "count": 5,
+        "uniques": 5
+      },
+      {
+        "path": "/StewAlexander-com/Awesome-Mnemonics/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/Awesome-Mnemonics/blob/main/CHANGELOG.md",
+        "title": "/blob/main/CHANGELOG.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/Awesome-Mnemonics/branches",
+        "title": "/branches",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/Awesome-Mnemonics/issues",
+        "title": "/issues",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 4599,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [
+      "8d-methodology",
+      "awesome-list",
+      "debugging",
+      "devops",
+      "engineering",
+      "framework",
+      "incident-management",
+      "incident-response",
+      "infrastructure",
+      "mnemonics",
+      "oncall",
+      "operations",
+      "pestel",
+      "problem-solving",
+      "root-cause-analysis",
+      "sre",
+      "stress-management",
+      "swot-analysis",
+      "systems-engineering",
+      "troubleshooting"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "File_Cleanup",
+    "description": "Easy File Cleanup tool that quickly organize files by placing them into folders by filetype, OS independent",
+    "url": "https://github.com/StewAlexander-com/File_Cleanup",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2025-12-24T17:08:07Z",
+    "createdAt": "2025-11-14T17:55:26Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 3,
+      "uniques": 3,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 18847,
+    "has_pages": false,
+    "default_branch": "master",
+    "topics": [
+      "automation",
+      "cleaner",
+      "cleanup",
+      "clutter-organiser",
+      "cursor",
+      "directory-management",
+      "file-management",
+      "os-agnostic",
+      "perplexity-ai",
+      "tui"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "Find-Incomplete-MAC-Addrresses.py",
+    "description": "Finds the list of incomplete MAC addresses from a Cisco sh IP arp, if any, and counts the total",
+    "url": "https://github.com/StewAlexander-com/Find-Incomplete-MAC-Addrresses.py",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2025-12-24T16:30:15Z",
+    "createdAt": "2021-12-01T17:17:05Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 7,
+      "uniques": 7,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 14,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "VIM-Awesome-Cheatsheet",
+    "description": "Cheatsheet for Vim",
+    "url": "https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet",
+    "isPrivate": false,
+    "stars": 193,
+    "forks": 5,
+    "language": null,
+    "pushedAt": "2025-09-07T10:40:46Z",
+    "createdAt": "2022-10-06T08:36:48Z",
+    "traffic_views": {
+      "count": 4,
+      "uniques": 3,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 6,
+      "uniques": 6,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/VIM-Awesome-Cheatsheet",
+        "title": "Overview",
+        "count": 4,
+        "uniques": 3
+      }
+    ],
+    "watchers_count": 3,
+    "open_issues": 2,
+    "size_kb": 173,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [
+      "awesome",
+      "editor",
+      "text-editor",
+      "vi",
+      "vim"
+    ],
+    "network_count": 5
+  },
+  {
+    "name": "cashier-change",
+    "description": "Cashier Change Python Script - finds least amount of bills and coins as change",
+    "url": "https://github.com/StewAlexander-com/cashier-change",
+    "isPrivate": false,
+    "stars": 0,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2025-09-07T09:50:37Z",
+    "createdAt": "2025-01-16T21:49:31Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 5,
+      "uniques": 5,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 29,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "MAC-Converter",
+    "description": "Converts from PC formatted MAC addresses (hardware addresses) to Cisco format or vice-versa",
+    "url": "https://github.com/StewAlexander-com/MAC-Converter",
+    "isPrivate": false,
+    "stars": 2,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2023-11-20T01:09:00Z",
+    "createdAt": "2021-11-09T14:47:31Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 3,
+      "uniques": 3,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 6,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [
+      "cisco",
+      "cisco-ios",
+      "converter",
+      "ios",
+      "mac-address",
+      "mac-address-changer",
+      "python"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "MAC2CSV",
+    "description": "Converts the output of a Cisco \"sh mac address\" or \"sh ip arp\" to a CSV file ready for Google Sheets / Excel",
+    "url": "https://github.com/StewAlexander-com/MAC2CSV",
+    "isPrivate": false,
+    "stars": 2,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2023-11-12T16:56:04Z",
+    "createdAt": "2022-03-11T22:13:05Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 2,
+      "uniques": 2,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": []
+  },
+  {
+    "name": "NetSearch",
+    "description": "Searches for patterns in an ARP / MAC table",
+    "url": "https://github.com/StewAlexander-com/NetSearch",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2022-05-24T20:26:20Z",
+    "createdAt": "2022-04-01T00:17:22Z",
+    "traffic_views": null,
+    "traffic_clones": null,
+    "referrers": [],
+    "popular_paths": []
+  },
+  {
+    "name": "MAC-Table-Tool",
+    "description": "Finds all the vendors in a MAC table, and then displays the MAC address, port #, and Vendor name",
+    "url": "https://github.com/StewAlexander-com/MAC-Table-Tool",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2022-05-19T15:44:17Z",
+    "createdAt": "2022-04-04T21:26:48Z",
+    "traffic_views": null,
+    "traffic_clones": null,
+    "referrers": [],
+    "popular_paths": []
+  },
+  {
+    "name": "saltstack-mac2csv",
+    "description": "Turns the yaml output of the saltstack command ```salt -G os:windows network.interfaces``` and turns into a csv file",
+    "url": "https://github.com/StewAlexander-com/saltstack-mac2csv",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2022-04-19T19:55:31Z",
+    "createdAt": "2022-04-18T19:02:00Z",
+    "traffic_views": null,
+    "traffic_clones": null,
+    "referrers": [],
+    "popular_paths": []
+  },
+  {
+    "name": "linux-gunk",
+    "description": "",
+    "url": "https://github.com/StewAlexander-com/linux-gunk",
+    "isPrivate": true,
+    "stars": 0,
+    "forks": 0,
+    "language": null,
+    "pushedAt": "2022-04-19T18:53:03Z",
+    "createdAt": "2022-04-19T18:53:02Z",
+    "traffic_views": null,
+    "traffic_clones": null,
+    "referrers": [],
+    "popular_paths": []
+  },
+  {
+    "name": "show-ip-arp-mac-lookup",
+    "description": "Searches for MAC addresses in a text file of a Cisco \"show IP arp\" in any address format",
+    "url": "https://github.com/StewAlexander-com/show-ip-arp-mac-lookup",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2021-12-01T21:01:47Z",
+    "createdAt": "2021-12-01T20:49:37Z",
+    "traffic_views": {
+      "count": 1,
+      "uniques": 1,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 3,
+      "uniques": 3,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/show-ip-arp-mac-lookup/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 3,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [
+      "arp",
+      "cisco",
+      "cisco-ios",
+      "ios",
+      "lookup",
+      "mac-address",
+      "python",
+      "python3",
+      "search"
+    ],
+    "network_count": 0
+  },
+  {
+    "name": "count-patterns-in-file.py",
+    "description": "Project to create a way to search files for specific strings",
+    "url": "https://github.com/StewAlexander-com/count-patterns-in-file.py",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2021-11-05T16:16:27Z",
+    "createdAt": "2021-10-30T19:40:25Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 4,
+      "uniques": 4,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 4,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "internet-up-clean",
+    "description": "Simple program for a user to provide networking details to the network admin(s)",
+    "url": "https://github.com/StewAlexander-com/internet-up-clean",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2021-11-05T16:05:08Z",
+    "createdAt": "2021-11-04T04:51:19Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 2,
+      "uniques": 2,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 32,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "yaml_parser",
+    "description": "",
+    "url": "https://github.com/StewAlexander-com/yaml_parser",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2021-11-05T15:53:01Z",
+    "createdAt": "2021-10-29T21:45:04Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 5,
+      "uniques": 5,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 22,
+    "has_pages": false,
+    "default_branch": "main",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "NetDisco-Ubuntu-Install",
+    "description": "Clearer instructions on how to load NetDisco on an Ubuntu server",
+    "url": "https://github.com/StewAlexander-com/NetDisco-Ubuntu-Install",
+    "isPrivate": false,
+    "stars": 5,
+    "forks": 3,
+    "language": null,
+    "pushedAt": "2021-09-09T18:24:28Z",
+    "createdAt": "2019-07-17T13:22:47Z",
+    "traffic_views": {
+      "count": 21,
+      "uniques": 14,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 7,
+      "uniques": 7,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [
+      {
+        "referrer": "Google",
+        "count": 11,
+        "uniques": 7
+      },
+      {
+        "referrer": "github.com",
+        "count": 7,
+        "uniques": 5
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/NetDisco-Ubuntu-Install",
+        "title": "Overview",
+        "count": 18,
+        "uniques": 11
+      },
+      {
+        "path": "/StewAlexander-com/NetDisco-Ubuntu-Install/blob/master/NetDisco-New - Support.pdf",
+        "title": "/blob/master/NetDisco-New - Support.pdf",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/NetDisco-Ubuntu-Install/forks",
+        "title": "/forks",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/StewAlexander-com/NetDisco-Ubuntu-Install/issues",
+        "title": "/issues",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 300,
+    "has_pages": true,
+    "default_branch": "master",
+    "topics": [
+      "guide",
+      "installation-guides",
+      "netdisco",
+      "ubuntu"
+    ],
+    "network_count": 3
+  },
+  {
+    "name": "linuxtech.me",
+    "description": "Linuxtech.me -  One Linux page to rule them all!",
+    "url": "https://github.com/StewAlexander-com/linuxtech.me",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 1,
+    "language": "HTML",
+    "pushedAt": "2020-07-22T15:19:16Z",
+    "createdAt": "2020-01-02T17:29:46Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 4,
+      "uniques": 4,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 806,
+    "has_pages": false,
+    "default_branch": "master",
+    "topics": [],
+    "network_count": 1
+  },
+  {
+    "name": "checkbook_balancer.py",
+    "description": "Python3 Checkbook balancer",
+    "url": "https://github.com/StewAlexander-com/checkbook_balancer.py",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2020-07-11T13:16:51Z",
+    "createdAt": "2020-03-06T17:14:23Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 5,
+      "uniques": 5,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 22591,
+    "has_pages": true,
+    "default_branch": "master",
+    "topics": [],
+    "network_count": 0
+  },
+  {
+    "name": "the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "url": "https://github.com/StewAlexander-com/the-art-of-command-line",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": null,
+    "pushedAt": "2020-03-25T16:24:51Z",
+    "createdAt": "2020-04-03T20:07:12Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 2,
+      "uniques": 2,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 2557,
+    "has_pages": false,
+    "default_branch": "master",
+    "topics": [],
+    "network_count": 14829
+  },
+  {
+    "name": "python-cheatsheet",
+    "description": "Comprehensive Python Cheatsheet",
+    "url": "https://github.com/StewAlexander-com/python-cheatsheet",
+    "isPrivate": false,
+    "stars": 3,
+    "forks": 0,
+    "language": "Python",
+    "pushedAt": "2020-03-15T20:04:41Z",
+    "createdAt": "2020-03-18T18:24:14Z",
+    "traffic_views": {
+      "count": 1,
+      "uniques": 1,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 2,
+      "uniques": 2,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/python-cheatsheet/activity",
+        "title": "/activity",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 4801,
+    "has_pages": false,
+    "default_branch": "master",
+    "topics": [
+      "cheatsheet",
+      "python"
+    ],
+    "network_count": 6705
+  },
+  {
+    "name": "chocolatey.org",
+    "description": "",
+    "url": "https://github.com/StewAlexander-com/chocolatey.org",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "C#",
+    "pushedAt": "2020-02-28T15:00:47Z",
+    "createdAt": "2020-02-28T14:48:52Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 2,
+      "uniques": 2,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 50466,
+    "has_pages": false,
+    "default_branch": "master",
+    "topics": [],
+    "network_count": 97
+  },
+  {
+    "name": "Chocolatey-ElasticSearch",
+    "description": "How to get Chocolatey package manager logs parsed by the Elastic Search ELK stack",
+    "url": "https://github.com/StewAlexander-com/Chocolatey-ElasticSearch",
+    "isPrivate": false,
+    "stars": 3,
+    "forks": 1,
+    "language": null,
+    "pushedAt": "2020-02-28T14:34:11Z",
+    "createdAt": "2020-02-28T12:36:30Z",
+    "traffic_views": {
+      "count": 1,
+      "uniques": 1,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 4,
+      "uniques": 4,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [
+      {
+        "path": "/StewAlexander-com/Chocolatey-ElasticSearch/pulse",
+        "title": "/pulse",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "watchers_count": 1,
+    "open_issues": 0,
+    "size_kb": 19,
+    "has_pages": true,
+    "default_branch": "master",
+    "topics": [
+      "elastic",
+      "elasticsearch",
+      "elk",
+      "guide",
+      "guidebook",
+      "kibana",
+      "logging",
+      "logstash"
+    ],
+    "network_count": 1
+  },
+  {
+    "name": "carettab",
+    "description": "CaretTab - New Tab Page Replacement",
+    "url": "https://github.com/StewAlexander-com/carettab",
+    "isPrivate": false,
+    "stars": 1,
+    "forks": 0,
+    "language": "CSS",
+    "pushedAt": "2020-01-07T17:04:39Z",
+    "createdAt": "2020-01-16T13:59:36Z",
+    "traffic_views": {
+      "count": 0,
+      "uniques": 0,
+      "views": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "traffic_clones": {
+      "count": 7,
+      "uniques": 7,
+      "clones": [
+        {
+          "timestamp": "2026-07-15T00:00:00Z",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "timestamp": "2026-07-16T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-18T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-19T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-20T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-21T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-22T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-24T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-25T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-26T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-27T00:00:00Z",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "timestamp": "2026-07-28T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "referrers": [],
+    "popular_paths": [],
+    "watchers_count": 0,
+    "open_issues": 0,
+    "size_kb": 17183,
+    "has_pages": false,
+    "default_branch": "master",
+    "topics": [],
+    "network_count": 50
+  }
+]
