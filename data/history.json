@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T15:30:59.039824+00:00",
+  "generated_at": "2026-09-23T15:26:48.667571+00:00",
   "last_run": {
-    "github_run_url": "https://github.com/StewAlexander-com/metrics-node-4091ed86/actions/runs/35747885732",
+    "github_run_url": "https://github.com/StewAlexander-com/metrics-node-4091ed86/actions/runs/35881595301",
     "github_workflow": "Collect repo stats",
     "repos_excluded": [
       "pplx-connector-test-delete-me"
@@ -9,7 +9,7 @@
     "repos_ok": 53,
     "repos_total": 53,
     "repos_with_errors": [],
-    "timestamp": "2026-09-22T15:30:59.039824+00:00"
+    "timestamp": "2026-09-23T15:26:48.667571+00:00"
   },
   "owner": "StewAlexander-com",
   "repos": {
@@ -292,6 +292,10 @@
         "2026-09-21": {
           "count": 1,
           "uniques": 1
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -570,6 +574,10 @@
         "2026-09-21": {
           "count": 1,
           "uniques": 1
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "default_branch": "master",
@@ -910,15 +918,21 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
-          "count": 2,
+          "count": 1,
           "path": "/StewAlexander-com/AI-Human-Mutualism",
           "title": "Overview",
           "uniques": 1
@@ -1225,6 +1239,10 @@
         "2026-09-21": {
           "count": 2,
           "uniques": 2
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "daily_views": {
@@ -1501,6 +1519,10 @@
           "uniques": 2
         },
         "2026-09-21": {
+          "count": 4,
+          "uniques": 2
+        },
+        "2026-09-22": {
           "count": 4,
           "uniques": 2
         }
@@ -1843,21 +1865,27 @@
           "open_issues": 0,
           "stars": 17,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 17,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Rich Text Format",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
-          "count": 18,
+          "count": 17,
           "path": "/StewAlexander-com/Awesome-Mnemonics",
           "title": "Overview",
-          "uniques": 11
+          "uniques": 10
         },
         {
-          "count": 3,
+          "count": 5,
           "path": "/StewAlexander-com/Awesome-Mnemonics/pulls",
           "title": "/pulls",
           "uniques": 2
@@ -1915,13 +1943,13 @@
       "referrers": [
         {
           "count": 3,
-          "referrer": "Google",
+          "referrer": "github.com",
           "uniques": 3
         },
         {
-          "count": 3,
-          "referrer": "github.com",
-          "uniques": 3
+          "count": 2,
+          "referrer": "Google",
+          "uniques": 2
         }
       ],
       "url": "https://github.com/StewAlexander-com/Awesome-Mnemonics"
@@ -2205,6 +2233,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -2481,6 +2513,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -2823,11 +2859,17 @@
           "open_issues": 0,
           "stars": 3,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 1,
+          "open_issues": 0,
+          "stars": 3,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2020-02-28T14:34:11Z",
@@ -3113,6 +3155,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "daily_views": {
@@ -3389,6 +3435,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -3731,11 +3781,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-07-06T17:50:17Z",
@@ -4021,6 +4077,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -4297,6 +4357,10 @@
           "uniques": 1
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -4639,11 +4703,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -4936,6 +5006,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "daily_views": {
@@ -5212,6 +5286,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -5554,11 +5632,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -5851,6 +5935,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -6129,6 +6217,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "default_branch": "main",
@@ -6469,13 +6561,26 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
-      "popular_paths": [],
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/Find-Incomplete-MAC-Addrresses.py/blob/main/README.md",
+          "title": "/blob/main/README.md",
+          "uniques": 1
+        }
+      ],
       "pushedAt": "2025-12-24T16:30:15Z",
       "referrers": [],
       "url": "https://github.com/StewAlexander-com/Find-Incomplete-MAC-Addrresses.py"
@@ -6759,6 +6864,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -7037,6 +7146,10 @@
         "2026-09-21": {
           "count": 4,
           "uniques": 4
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "default_branch": "main",
@@ -7377,24 +7490,30 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
-          "count": 14,
+          "count": 13,
           "path": "/StewAlexander-com/Fractal-Mandala-3D",
           "title": "Overview",
           "uniques": 8
         },
         {
-          "count": 2,
+          "count": 3,
           "path": "/StewAlexander-com/Fractal-Mandala-3D/actions",
           "title": "/actions",
-          "uniques": 2
+          "uniques": 3
         },
         {
           "count": 1,
@@ -7416,12 +7535,6 @@
         },
         {
           "count": 1,
-          "path": "/StewAlexander-com/Fractal-Mandala-3D/blob/main/README.md",
-          "title": "/blob/main/README.md",
-          "uniques": 1
-        },
-        {
-          "count": 1,
           "path": "/StewAlexander-com/Fractal-Mandala-3D/issues",
           "title": "/issues",
           "uniques": 1
@@ -7438,11 +7551,6 @@
         {
           "count": 5,
           "referrer": "Google",
-          "uniques": 1
-        },
-        {
-          "count": 1,
-          "referrer": "copilot.microsoft.com",
           "uniques": 1
         },
         {
@@ -7732,6 +7840,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -8010,6 +8122,10 @@
         "2026-09-21": {
           "count": 3,
           "uniques": 3
+        },
+        "2026-09-22": {
+          "count": 4,
+          "uniques": 4
         }
       },
       "default_branch": "main",
@@ -8350,18 +8466,24 @@
           "open_issues": 0,
           "stars": 36,
           "watchers": 5
+        },
+        "2026-09-23": {
+          "forks": 6,
+          "open_issues": 0,
+          "stars": 36,
+          "watchers": 5
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
-          "count": 35,
+          "count": 38,
           "path": "/StewAlexander-com/Linux-Tools",
           "title": "Overview",
-          "uniques": 29
+          "uniques": 31
         },
         {
           "count": 1,
@@ -8379,9 +8501,9 @@
       "pushedAt": "2026-08-30T14:17:59Z",
       "referrers": [
         {
-          "count": 30,
+          "count": 32,
           "referrer": "Google",
-          "uniques": 23
+          "uniques": 25
         },
         {
           "count": 2,
@@ -8670,6 +8792,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -8946,6 +9072,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -9288,11 +9418,17 @@
           "open_issues": 0,
           "stars": 2,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 2,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2023-11-20T01:09:00Z",
@@ -9578,6 +9714,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -9854,6 +9994,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -10196,11 +10340,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -10493,6 +10643,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -10769,6 +10923,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -11111,11 +11269,17 @@
           "open_issues": 0,
           "stars": 2,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 2,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2023-11-12T16:56:04Z",
@@ -11401,6 +11565,10 @@
         "2026-09-21": {
           "count": 2,
           "uniques": 2
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -11679,6 +11847,10 @@
         "2026-09-21": {
           "count": 3,
           "uniques": 3
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "default_branch": "main",
@@ -12019,11 +12191,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -12334,6 +12512,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 3,
+          "uniques": 3
         }
       },
       "daily_views": {
@@ -12612,6 +12794,10 @@
         "2026-09-21": {
           "count": 4,
           "uniques": 3
+        },
+        "2026-09-22": {
+          "count": 6,
+          "uniques": 6
         }
       },
       "default_branch": "master",
@@ -12952,37 +13138,43 @@
           "open_issues": 0,
           "stars": 5,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 2,
+          "open_issues": 0,
+          "stars": 5,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
-          "count": 27,
+          "count": 30,
           "path": "/StewAlexander-com/NetDisco-Ubuntu-Install",
           "title": "Overview",
-          "uniques": 14
+          "uniques": 18
         },
         {
-          "count": 5,
+          "count": 4,
           "path": "/StewAlexander-com/NetDisco-Ubuntu-Install/blob/master/NetDisco-New - Support.pdf",
           "title": "/blob/master/NetDisco-New - Support.pdf",
-          "uniques": 4
+          "uniques": 3
         }
       ],
       "pushedAt": "2021-09-09T18:24:28Z",
       "referrers": [
         {
-          "count": 7,
+          "count": 10,
           "referrer": "github.com",
-          "uniques": 6
+          "uniques": 7
         },
         {
-          "count": 5,
+          "count": 7,
           "referrer": "Google",
-          "uniques": 5
+          "uniques": 7
         },
         {
           "count": 2,
@@ -13267,6 +13459,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -13539,6 +13735,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -13881,11 +14081,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2022-05-24T20:26:20Z",
@@ -14202,6 +14408,10 @@
         "2026-09-21": {
           "count": 1,
           "uniques": 1
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -14478,6 +14688,10 @@
           "uniques": 1
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -14820,11 +15034,17 @@
           "open_issues": 0,
           "stars": 2,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 2,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -15148,6 +15368,10 @@
         "2026-09-21": {
           "count": 11,
           "uniques": 2
+        },
+        "2026-09-22": {
+          "count": 3,
+          "uniques": 3
         }
       },
       "daily_views": {
@@ -15424,6 +15648,10 @@
           "uniques": 2
         },
         "2026-09-21": {
+          "count": 2,
+          "uniques": 2
+        },
+        "2026-09-22": {
           "count": 2,
           "uniques": 2
         }
@@ -15766,11 +15994,17 @@
           "open_issues": 0,
           "stars": 6,
           "watchers": 3
+        },
+        "2026-09-23": {
+          "forks": 2,
+          "open_issues": 0,
+          "stars": 6,
+          "watchers": 3
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -15799,12 +16033,6 @@
         },
         {
           "count": 1,
-          "path": "/StewAlexander-com/ShadowVendor/blob/12.3/CONTRIBUTING.md",
-          "title": "/blob/12.3/CONTRIBUTING.md",
-          "uniques": 1
-        },
-        {
-          "count": 1,
           "path": "/StewAlexander-com/ShadowVendor/blob/12.3/README.md",
           "title": "/blob/12.3/README.md",
           "uniques": 1
@@ -15817,12 +16045,6 @@
         },
         {
           "count": 1,
-          "path": "/StewAlexander-com/ShadowVendor/blob/main/requirements-dev.txt",
-          "title": "/blob/main/requirements-dev.txt",
-          "uniques": 1
-        },
-        {
-          "count": 1,
           "path": "/StewAlexander-com/ShadowVendor/blob/main/setup.py",
           "title": "/blob/main/setup.py",
           "uniques": 1
@@ -15831,6 +16053,18 @@
           "count": 1,
           "path": "/StewAlexander-com/ShadowVendor/projects",
           "title": "/projects",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/ShadowVendor/pulls",
+          "title": "/pulls",
+          "uniques": 1
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/ShadowVendor/releases/tag/v14.0.0",
+          "title": "/releases/tag/v14.0.0",
           "uniques": 1
         }
       ],
@@ -16128,6 +16362,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -16404,6 +16642,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -16746,11 +16988,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -17043,6 +17291,10 @@
         "2026-09-21": {
           "count": 1,
           "uniques": 1
+        },
+        "2026-09-22": {
+          "count": 4,
+          "uniques": 3
         }
       },
       "daily_views": {
@@ -17321,6 +17573,10 @@
         "2026-09-21": {
           "count": 1,
           "uniques": 1
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "default_branch": "main",
@@ -17661,18 +17917,24 @@
           "open_issues": 2,
           "stars": 194,
           "watchers": 3
+        },
+        "2026-09-23": {
+          "forks": 5,
+          "open_issues": 2,
+          "stars": 194,
+          "watchers": 3
         }
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 2,
       "popular_paths": [
         {
-          "count": 15,
+          "count": 14,
           "path": "/StewAlexander-com/VIM-Awesome-Cheatsheet",
           "title": "Overview",
-          "uniques": 14
+          "uniques": 13
         },
         {
           "count": 6,
@@ -17993,6 +18255,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -18269,6 +18535,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -18611,11 +18881,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -18908,6 +19184,10 @@
         "2026-09-21": {
           "count": 1,
           "uniques": 1
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -19184,6 +19464,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -19526,11 +19810,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-07-13T17:56:50Z",
@@ -19816,6 +20106,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -20094,6 +20388,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "default_branch": "master",
@@ -20434,13 +20732,26 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
-      "popular_paths": [],
+      "popular_paths": [
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/carettab/blob/master/README.md",
+          "title": "/blob/master/README.md",
+          "uniques": 1
+        }
+      ],
       "pushedAt": "2020-01-07T17:04:39Z",
       "referrers": [],
       "url": "https://github.com/StewAlexander-com/carettab"
@@ -20724,6 +21035,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "daily_views": {
@@ -21000,6 +21315,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -21342,11 +21661,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2025-09-07T09:50:37Z",
@@ -21632,6 +21957,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "daily_views": {
@@ -21908,6 +22237,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -22250,11 +22583,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2020-07-11T13:16:51Z",
@@ -22532,6 +22871,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "daily_views": {
@@ -22800,6 +23143,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -23142,11 +23489,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -23445,6 +23798,10 @@
         "2026-09-21": {
           "count": 1,
           "uniques": 1
+        },
+        "2026-09-22": {
+          "count": 2,
+          "uniques": 2
         }
       },
       "daily_views": {
@@ -23721,6 +24078,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -24063,11 +24424,17 @@
           "open_issues": 0,
           "stars": 4,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 1,
+          "open_issues": 0,
+          "stars": 4,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -24377,6 +24744,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -24653,6 +25024,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -24995,11 +25370,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -25116,6 +25497,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "daily_views": {
@@ -25218,6 +25603,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "default_branch": "main",
@@ -25300,11 +25689,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -25603,6 +25998,10 @@
         "2026-09-22": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-23": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -25879,6 +26278,10 @@
           "uniques": 0
         },
         "2026-09-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-23": {
           "count": 0,
           "uniques": 0
         }
@@ -26221,11 +26624,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": true,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-05-18T11:28:34Z",
@@ -26511,6 +26920,10 @@
         "2026-09-21": {
           "count": 2,
           "uniques": 2
+        },
+        "2026-09-22": {
+          "count": 2,
+          "uniques": 2
         }
       },
       "daily_views": {
@@ -26787,6 +27200,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -27129,11 +27546,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -27330,6 +27753,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 3,
+          "uniques": 3
         }
       },
       "daily_views": {
@@ -27510,6 +27937,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -27708,11 +28139,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-08-21T18:59:00Z",
@@ -27998,6 +28435,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -28274,6 +28715,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -28616,11 +29061,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2021-11-05T16:05:08Z",
@@ -28906,6 +29357,10 @@
         "2026-09-22": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-23": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -29182,6 +29637,10 @@
           "uniques": 0
         },
         "2026-09-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-23": {
           "count": 0,
           "uniques": 0
         }
@@ -29524,11 +29983,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 1
         }
       },
       "isPrivate": true,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2022-04-19T18:53:03Z",
@@ -29814,6 +30279,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -30090,6 +30559,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -30432,11 +30905,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 1,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2020-07-22T15:19:16Z",
@@ -30722,6 +31201,10 @@
         "2026-09-21": {
           "count": 50,
           "uniques": 20
+        },
+        "2026-09-22": {
+          "count": 95,
+          "uniques": 40
         }
       },
       "daily_views": {
@@ -30998,6 +31481,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -31340,11 +31827,17 @@
           "open_issues": 1,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 1,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 1,
       "popular_paths": [
         {
@@ -31354,7 +31847,7 @@
           "uniques": 1
         }
       ],
-      "pushedAt": "2026-09-22T14:47:13Z",
+      "pushedAt": "2026-09-23T14:25:13Z",
       "referrers": [],
       "url": "https://github.com/StewAlexander-com/live-tech-news"
     },
@@ -31457,6 +31950,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -31555,6 +32052,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "default_branch": "main",
@@ -31625,11 +32126,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -31939,6 +32446,10 @@
         "2026-09-21": {
           "count": 11,
           "uniques": 7
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "daily_views": {
@@ -32215,6 +32726,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -32557,11 +33072,17 @@
           "open_issues": 1,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 1,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 1,
       "popular_paths": [
         {
@@ -32807,6 +33328,10 @@
         "2026-09-21": {
           "count": 1,
           "uniques": 1
+        },
+        "2026-09-22": {
+          "count": 2,
+          "uniques": 2
         }
       },
       "daily_views": {
@@ -32995,6 +33520,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -33205,11 +33734,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-09-21T12:38:41Z",
@@ -33491,6 +34026,10 @@
         "2026-09-21": {
           "count": 16,
           "uniques": 9
+        },
+        "2026-09-22": {
+          "count": 5,
+          "uniques": 3
         }
       },
       "daily_views": {
@@ -33763,6 +34302,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -34105,14 +34648,20 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
-      "pushedAt": "2026-09-21T17:04:48Z",
+      "pushedAt": "2026-09-22T15:32:07Z",
       "referrers": [],
       "url": "https://github.com/StewAlexander-com/metrics-node-4091ed86"
     },
@@ -34199,6 +34748,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 94,
+          "uniques": 39
         }
       },
       "daily_views": {
@@ -34281,6 +34834,10 @@
         "2026-09-21": {
           "count": 1,
           "uniques": 1
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "default_branch": "main",
@@ -34327,11 +34884,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -34341,7 +34904,7 @@
           "uniques": 2
         }
       ],
-      "pushedAt": "2026-09-22T01:17:54Z",
+      "pushedAt": "2026-09-22T21:24:56Z",
       "referrers": [
         {
           "count": 1,
@@ -34630,6 +35193,10 @@
         "2026-09-22": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-23": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -34906,6 +35473,10 @@
           "uniques": 0
         },
         "2026-09-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-23": {
           "count": 0,
           "uniques": 0
         }
@@ -35248,11 +35819,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": true,
       "language": "TypeScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-06-30T18:38:06Z",
@@ -35538,6 +36115,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -35814,6 +36395,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -36156,11 +36741,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-04-17T18:53:46Z",
@@ -36472,6 +37063,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -36748,6 +37343,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -37090,11 +37689,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "HTML",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-04-24T13:54:05Z",
@@ -37411,6 +38016,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -37687,6 +38296,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -38029,11 +38642,17 @@
           "open_issues": 0,
           "stars": 3,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 3,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -38357,6 +38976,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -38635,6 +39258,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 2,
+          "uniques": 1
         }
       },
       "default_branch": "main",
@@ -38975,26 +39602,38 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 1,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
-          "count": 11,
+          "count": 12,
           "path": "/StewAlexander-com/python-tutor",
           "title": "Overview",
-          "uniques": 8
+          "uniques": 9
+        },
+        {
+          "count": 1,
+          "path": "/StewAlexander-com/python-tutor/tree/main/site",
+          "title": "/tree/main/site",
+          "uniques": 1
         }
       ],
       "pushedAt": "2026-05-22T13:15:00Z",
       "referrers": [
         {
-          "count": 3,
+          "count": 4,
           "referrer": "chatgpt.com",
-          "uniques": 3
+          "uniques": 4
         },
         {
           "count": 3,
@@ -39319,6 +39958,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -39595,6 +40238,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -39937,11 +40584,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -40271,6 +40924,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -40547,6 +41204,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -40889,11 +41550,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2022-04-19T19:55:31Z",
@@ -41220,6 +41887,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -41496,6 +42167,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -41838,11 +42513,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2021-12-01T21:01:47Z",
@@ -41932,6 +42613,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 2,
+          "uniques": 2
         }
       },
       "daily_views": {
@@ -42014,6 +42699,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "default_branch": "main",
@@ -42066,11 +42755,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -42369,6 +43064,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -42645,6 +43344,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -42987,11 +43690,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": null,
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
@@ -43284,6 +43993,10 @@
         "2026-09-21": {
           "count": 7,
           "uniques": 5
+        },
+        "2026-09-22": {
+          "count": 15,
+          "uniques": 8
         }
       },
       "daily_views": {
@@ -43560,6 +44273,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -43902,18 +44619,24 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": false,
       "language": "JavaScript",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [
         {
-          "count": 2,
+          "count": 1,
           "path": "/StewAlexander-com/tropical-todo-list",
           "title": "Overview",
-          "uniques": 2
+          "uniques": 1
         },
         {
           "count": 1,
@@ -43928,7 +44651,7 @@
           "uniques": 1
         }
       ],
-      "pushedAt": "2026-09-21T20:09:24Z",
+      "pushedAt": "2026-09-22T18:47:11Z",
       "referrers": [],
       "url": "https://github.com/StewAlexander-com/tropical-todo-list"
     },
@@ -44211,6 +44934,10 @@
         "2026-09-22": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-23": {
+          "count": 0,
+          "uniques": 0
         }
       },
       "daily_views": {
@@ -44487,6 +45214,10 @@
           "uniques": 0
         },
         "2026-09-22": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-23": {
           "count": 0,
           "uniques": 0
         }
@@ -44829,11 +45560,17 @@
           "open_issues": 0,
           "stars": 0,
           "watchers": 0
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 0,
+          "watchers": 0
         }
       },
       "isPrivate": true,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2026-05-21T19:38:53Z",
@@ -45119,6 +45856,10 @@
         "2026-09-21": {
           "count": 0,
           "uniques": 0
+        },
+        "2026-09-22": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "daily_views": {
@@ -45395,6 +46136,10 @@
           "uniques": 0
         },
         "2026-09-21": {
+          "count": 0,
+          "uniques": 0
+        },
+        "2026-09-22": {
           "count": 0,
           "uniques": 0
         }
@@ -45737,11 +46482,17 @@
           "open_issues": 0,
           "stars": 1,
           "watchers": 1
+        },
+        "2026-09-23": {
+          "forks": 0,
+          "open_issues": 0,
+          "stars": 1,
+          "watchers": 1
         }
       },
       "isPrivate": false,
       "language": "Python",
-      "last_collected": "2026-09-22T15:30:59.039824+00:00",
+      "last_collected": "2026-09-23T15:26:48.667571+00:00",
       "open_issues": 0,
       "popular_paths": [],
       "pushedAt": "2021-11-05T15:53:01Z",
